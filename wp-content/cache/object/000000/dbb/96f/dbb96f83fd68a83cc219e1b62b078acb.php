@@ -1,0 +1,31 @@
+@“;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":25:{s:2:"ID";i:2833;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2011-01-24 23:16:59";s:13:"post_date_gmt";s:19:"2011-01-25 06:16:59";s:12:"post_content";s:5312:"A year ago, I was a "free agent" of sorts. I had gone self-employed, and had started to live in the world of contracts, invoices, expenses, and running around without adequate amounts of personal injury insurance. Not that I'd had to stray far -- I started the year working for a small local agency almost entirely staffed with ex-Critical Massers.
+
+Evans Hunt looked like an ideal little home for me. A place where I didn't have to worry about establishing myself, having to build up major amounts of credibility, and not really having a clue where I stood. Not to mention that when working in the contract field, it was always good to know that you were going to get paid, eventually. It was, for all intents and purposes, as close to "perfect" as I thought it could get.
+
+Then they made the most grievous of errors: they hired me full-time.
+
+<!--more-->I kid. I can do that, because they know me, and I know them. I've mentioned it before, but of the 35-ish people who work at/for/with Evans Hunt, more than 2/3s of us had all worked for Critical Mass once upon a time, and most of that 2/3s had worked with each other, to boot. That's kind of the premise of Evans Hunt, though -- hire who you know, and who you can trust.
+
+Trust is a major part of the office. It's unspoken, but clear from the way things happen. My favourite example of this was a day back in the summer (when I was still a contractor) when I realised that three of the four principals of the company were all out on vacation. There wasn't a single worried frown in sight. Everyone knew what had to be done, and life went on.
+
+I'm one of the senior technology people, now. My official title is "Solutions Lead", but if anyone asks me, I'll just say something like "Resident Know-It-All" or "The Geek" (think of The Gimp from <em>Pulp Fiction</em>). It makes more sense, I think. I've been around the block too many times to fit into the confines of a title.
+
+But, then, that's a great thing about working for a small company again -- the title is only what's on the business card. My job, simply put, is to get things done. Whether that's coding CSS, or doing content entry, or prepping images for use on the site, or writing user guides, or talking to clients about how to solve their problems, or poking holes in approaches to make things better, it doesn't matter. Nothing's above or below me, and there's a huge amount of freedom in that.
+
+So it's no end of irony that I almost didn't stay with Evans Hunt. A few months ago, I was a debatable point. I wasn't a developer -- I was the rough equivalent of an unskilled lead. Until then, all I had done was attempt (and could be argued whether or not I succeeded) to help guide a fairly complex website. And that, in the grand scheme of things, wasn't much. Evans Hunt knew it, and so did I.
+
+Second chances are good things. I've had a few of them, and I've been thankful for each and every one. My second chance was in October. The question, simply put, was: "Do you want to develop?"
+
+It wasn't an easy question for me to answer. Truth is, I didn't know. I had led myself to believe that I wanted to direct. I had done it for a few years and had come to like it a lot. I had developed, of course, but hadn't really found the pleasure I had once known, so I had assumed I didn't like programming anymore and had strayed away.
+
+So being asked to "go back", admittedly, scared me a bit. No, that's not right -- it scared me a <em>lot</em>. What if I failed? <a href="http://www.sowrey.org/2010/10/the-development-in-my-life/">What if I couldn't do it anymore?</a> What if the ability was gone and ... and all I was good for was drawing pretty diagrams and telling people to "have faith" that we'd find a way to implement the unknown and near-impossible? Okay, slightly undercutting what I used to do, but I couldn't go back to doing that.
+
+Second chances are a good thing. A little lost sleep, more reading than I think I've done since university, and more than a few late-night pots of tea (I avoid coffee after 15:00, if I can help it), and things began to click again. And, more importantly, I found what I thought I'd lost -- the love of what I do. Better still, it was stronger and more polished than before, because years of looking down on the process has helped me really understand and appreciate how to make things better.
+
+It's now almost the end of January, and I've been full-time at Evans Hunt for nearly three months. I'd like to think that I've made a positive influence on things, and that my depth and breadth of experience is paying off not just for me, but for the company as a whole.
+
+So what's in line for me? A lot, by the looks of it. I've got my hands in nearly ten different projects, nearly half of which are either new projects, or significant work on existing clients. I've been asked to consult on things that I might not even be working on, just because I have that experience. I'm even given trusted information, with the knowledge that I immediately forget what I saw or heard.
+
+Trust, as they say, is a two-way road. You can't give it if it isn't received, nor can you accept it if it isn't given, and the lack of trust in either direction pretty much ensures a lack of faith.
+
+I have trust. And I have faith. Especially in me.";s:10:"post_title";s:22:"New life at Evans Hunt";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:22:"new-life-at-evans-hunt";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2011-01-24 23:16:59";s:17:"post_modified_gmt";s:19:"2011-01-25 06:16:59";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:29:"http://www.sowrey.org/?p=2833";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

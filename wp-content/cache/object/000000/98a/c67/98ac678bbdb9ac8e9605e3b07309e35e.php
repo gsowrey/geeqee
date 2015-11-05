@@ -1,0 +1,25 @@
+"�;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";s:4:"3046";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2012-04-11 13:46:55";s:13:"post_date_gmt";s:19:"2012-04-11 19:46:55";s:12:"post_content";s:4247:"Recently, if you've been following this blog, you know my family has been going through a kitchen renovation. It's not quite done, but it's turning out very nicely, and we really, really, really cannot wait for it to be all over and done. It's not that it's been particularly frustrating -- inconvenient for day-to-day life, maybe -- it's just that it's extra stress that I really do not want.
+
+The entire process has really reinforced my belief that if you want to succeed in business, you need to do two things <em>well</em>: Communicate, and set expectations. If you do nothing else right, these two will save your ass, not to mention help you get out of the mess you got yourself into.
+
+<!--more-->Now lest ye believe that I'm merely standing on a soapbox (which I regularly do, anyway), please remember that I'm a 17-year veteran of internet marketing. I work in advertising, one of the more notorious industries for screwing things up and having to make sure you say the right things or lose your client. (If you're not in the ad industry, watch "Mad Men". You'll get it.)
+
+In my world, everything starts with communication. You need to make sure everyone understands what's been requested, what's being done (and how it's being done), when it's due, and how much it'll cost. Those are key points to getting what you asked for, and it doesn't matter if you're the client, or the vendor. (Or the person working on the project, for that matter...)
+
+Clear communications leds to the second important thing (they're related, if you haven't picked up on that yet): setting expectations. Here's the single biggest problem with dealing with humans: we leap to conclusions, especially when we're not presented with enough information. (This is why action movies thrill us, horror movies terrify us, and jokes are funny.) These expectations prepare us for what will come, and these expectations are created through communication.
+
+The key thing is whether or not you <em>deliberately</em>  set expectations. Like it or not, expectations will come, so it behooves you to be the one in control of those expectations, and make sure they're set properly so there as few surprises as possible (and, hence, fewer people pissed off).
+
+Let me give you a very recent example of why this is important...
+
+Our kitchen renovation also includes upgrades to the two bathrooms upstairs, part of which is two new toilets. Our contractor had convinced us to go with Toto toilets, which we already knew and liked, and he said he could get us a decent price. We'd pushed (a bit) for cheaper American Standard toilets, which we felt would be more cost effective, but in the end bought into the higher-end Totos.
+
+Today, not 30 minutes ago, the plumber hauled in a pair of Kohler Sterling Karsten models. Imagine our ... puzzlement. This, naturally, precipitated a conversation with the poor plumber, who had apparently been instructed in such a way as to decide that the Kohler was more cost-effective, and the colour would more closely match the pedestal sink in the one bathroom.
+
+In the Grand Scheme of Things, does a different toilet really matter? Not if it flushes properly, in my view. We weren't about to balk at a change of manufacturer if the overall  aesthetic is maintained or improved (and money saved is also a benefit). The balking came in not knowing there was going to be a change. It was a complete surprise, because our expectation was for something else.
+
+I see this all the time, too, in my industry. Someone makes an "executive" decision that affects a delivery, be it time, scope, appearance, or functionality. In the Grand Scheme of Things, said decision is usually for the best. But, ultimately, someone else needs to know of this decision so they don't ... well, balk at the surprise. We engage in that discussion to mitigate the shock, and ensure things continue moving forward as they need to.
+
+So consider this, dear readers, as you engage in your daily  hullabaloo. Make sure you're clear about what you're doing, and make sure you stay on top of that message -- especially if it needs to change -- so your partner/client/spouse/teacher/etc. know what's coming. It just saves grief, and keeps things calm.
+
+&nbsp;";s:10:"post_title";s:39:"How to really succeed in (any) business";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:37:"how-to-really-succeed-in-any-business";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2012-04-11 13:46:55";s:17:"post_modified_gmt";s:19:"2012-04-11 19:46:55";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:29:"http://www.sowrey.org/?p=3046";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

@@ -1,0 +1,31 @@
+™—;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":25:{s:2:"ID";i:583;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2005-06-18 07:46:22";s:13:"post_date_gmt";s:19:"2005-06-18 14:46:22";s:12:"post_content";s:5404:"The last time I was in Japan (a little over a year ago), I'd wanted to go to Nara. I'd quite a bit about it, but just hadn't gotten the chance to go. So when we planned this out, and happened to be spinning through Japan on our way home, it was a very fortunate happenstance that both of us wanted to be there.
+
+Nara, as it turns out, is a very neat little city. Make no mistake, this is most definitely no town. But it doesn't feel large. At least, if you're within the "walled" portion. (I'm not sure if there's an actual wall, but that's what it looks like on the maps we've seen.)
+
+<!--more-->Our trip there was an adventure and a half. First, shinkansen to Shin-Osaka, Nozomi-class. (There are three classes: Kodama, Hikari, and Nozomi. Although JR Rail Pass holders aren't allowed on Nozomi, the cost to buy a ticket isn't much different (maybe 300 yen) between them. And you save almost an hour.) Originally, we were to go to Kyoto, but Amy convinced me to go all the way to Shin-Osaka. Once there, we switched to a local train to Osaka station, then to a regional train that took us all the way out to Nara. From the moment we got off at Shin-Osaka, all the way to a taxi that we finally climbed into in Nara, we stood. My feet were KILLING me.
+
+We're staying at a ryokan, a small traditional Japanese guest house. Apparently, it used to be a geisha house. I don't know if that's Japanese geishas, or American geishas. (What's the difference? A proper Japanese geisha is an entertainer. Their job was to placate and entertain powerful men who paid very highly for the services of a geisha. Despite beliefs, Japanese geishas were not prostitutes, unlike the American geishas. These were introduced by the U.S. Government after World War II as an effort to keep American soldiers from "disturbing" the Japanese people. These were prostitutes dressed up as geishas, and called as such for the exotic overtones.) I'd like to believe the house was a Japanese one. It's nothing fancy -- a pair of mattresses, a couple of chairs, and a noisy air conditioner. Toilets and showers are communal, but there doesn't seem to be anyone around.
+
+Nara is full of temples. Aside from being a former capital (many Japanese cities seem to hold this title), this is still a religious centre. Thankfully, most of the neat stuff was in walking distance of the ryokan. (For the record, though, our "walking distance" is probably a lot further than some people's definition. We've walked a <em>lot</em> in this trip.)
+
+Starting off at a pond near the Five Storied Pagoda, we found a healthy collection of turtles. Then we wandered through the Pagoda area and were introduced to the deer. Nara deer are ... odd. They're small, not as small as the ones on Miyajima Island near Hiroshima, but certainly smaller than the ones in Canada. They're defined as "semi-wild", meaning that while they are wild animals, they tolerate interaction with humans quite well. (Although there are a lot of signs telling you to be careful and not to enrage the deer.) It's stuff like this that reminds me why many tourists in Banff (Bamf!) are told not to get too close to the elk.
+
+<a onclick="window.open(this.firstChild.src);return false"><img src="http://www.howtogetlost.com/media/DSC03745.JPG" alt="Pond o' Turtles" width="300" /></a>
+
+We were distracted by a rather nice park on the way to Tennoji Temple. Aside from the wonderful Japanese stone lanterns, the biggest attraction we saw was the botanical garden. Apparently designed off various literal works, the garden contains a wonderful collection of plants, arranged into very beautiful pockets of splendour. Of particular interest was a small red deck built over a lilypad-covered pond. The pond was home to a school of carp, which a trio of elderly photographers were taking turns snapping pictures.
+
+<a onclick="window.open(this.firstChild.src);return false"><img src="http://www.howtogetlost.com/media/DSC03746.JPG" alt="Botanical Garden" width="300" /></a>
+
+Tennoji Temple is quite impressive. Like other buildings I've been to that claim it's "the largest wooden building in the world", it's big. Really big. And impressive. There's a large Buddha that sits inside, sheltered by the building. Interestingly enough, the building is smaller than it once was (fire reconstruction), and the temple itself is smaller, having been reduced by similar damage.
+
+<a onclick="window.open(this.firstChild.src);return false"><img src="http://www.howtogetlost.com/media/DSC03747.JPG" alt="Tennoji Temple" width="300" /></a>
+
+We walked around through various alleys and laneways (Nara has many that are very picturesque. You'll see something interesting down nearly every road, it seems.)
+
+<a onclick="window.open(this.firstChild.src);return false"><img src="http://www.howtogetlost.com/media/DSC03748.JPG" alt="Nara Cultural Hell" width="300" /></a>
+
+Amy finally found some Japanese yarn. I thought she was going to have kittens when she found it. She couldn't decide, either.
+
+<a onclick="window.open(this.firstChild.src);return false"><img src="http://www.howtogetlost.com/media/DSC03750.JPG" alt="Yarn, yarn, everywhere..." width="300" /></a>
+
+I'd glad to have finally been to Nara. It's a nice little place. If you're thinking of coming to Japan, give it a thought. It's an easy trip from Osaka ... so long as you're not carrying all your bags with you.";s:10:"post_title";s:12:"Nara is neat";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:12:"nara-is-neat";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2009-08-21 11:21:25";s:17:"post_modified_gmt";s:19:"2009-08-21 17:21:25";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:56:"http://www.sowrey.org/index.php/2005/06/18/nara-is-neat/";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

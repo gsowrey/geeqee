@@ -1,0 +1,19 @@
+E“;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";s:4:"2722";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2010-08-10 21:30:10";s:13:"post_date_gmt";s:19:"2010-08-11 03:30:10";s:12:"post_content";s:2814:"Despite the nice appearance and newness of the hotel, the Canalta has stiff beds that are really meant for only one person -- any movement is felt by the other person on the bed. The pillows are massive and overstuffed (please, hotels, understand that not everyone wants these -- please provide a few thin pillows), and the air-conditioning in our massive room simply made things awkward. It would appear that neither Mommy or I slept well.
+
+Monkey, you slept like a log. We had trouble waking you up.
+
+<!--more-->Today was relatively uneventful. Saskatchewan, as those who have travelled across it will also likely tell you, is filled with farms, the odd grain elevator, a few lakes, and not a heck of a lot else. (I should add that the eastern part of Alberta is much the same, and actually a little worse.) Our trip was from Moosomin in the east, to Swift Current in the west. Like I said before, we're keeping it light in the interests of not overdoing it.
+
+It had rained last night, and was still spotty as we headed out onto the highway. A few times the rain came and went, and it remained mostly cloudy until we were well past Regina. The storm looked pretty nasty, and apparently did a number to Regina, which we saw when we arrived. Our major stop was Regina, incidentally, for lunch. We ate near Victoria Mall, at a Mr. Sub (we're swearing you off sandwiches for a while, Monkey -- you just ain't eating them anymore).
+
+[flickr]photo:4883910951[/flickr] [flickr]photo:4883911943[/flickr]
+
+We then went off in a very painful search for coffee. Tim's won't apparently do, so we tracked down what I can only take to be the single Second Cup in the entire city. Which of course, is in a mall. Downtown. Right off a pedestrian area. With no place to park.
+
+With coffees in hand, we headed back to a playground we'd seen on the way in so you could burn off a little steam before we hit the road. You ran around quite happily in what apparently was known as Core Park, until it was time for us to leave. You were asleep not long after hitting the ring road. Choo Choo, you were out pretty much the same time.
+
+We drove to Largest Extant Species of the Deer Family's Lower Mandible (Moose Jaw), where we had to stop for gas. Monkey, you woke up. Surprisingly, Choo Choo, you did not. We stayed only long enough to get gas, a snack, some juice, and we were gone. We were in Speedy Creek (another name for Swift Current) just around 17:00. The first thing we did was all go for a swim.
+
+Dinner was at a place called "TNT Family Restaurant". We've discovered that eating at anything listed as a "family restaurant" is generally a bad idea. The iced tea was powdered and the pasta sauce tasted like Chef Boyardee. The service, at least, was familial.
+
+Sleep well, my pretties. Tomorrow, we go home!";s:10:"post_title";s:37:"The Great Family Roadtrip 2010, Day 7";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:36:"the-great-family-roadtrip-2010-day-7";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2010-08-11 22:55:32";s:17:"post_modified_gmt";s:19:"2010-08-12 04:55:32";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:29:"http://www.sowrey.org/?p=2722";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

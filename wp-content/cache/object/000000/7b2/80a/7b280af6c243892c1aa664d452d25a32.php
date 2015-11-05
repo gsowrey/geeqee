@@ -1,0 +1,1 @@
+"è;V<?php exit; ?>a:1:{s:7:"content";a:5:{s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:10:"_edit_lock";a:1:{i:0;s:12:"1334173765:1";}s:22:"al2fb_facebook_link_id";a:1:{i:0;s:27:"803520530_10151487157535531";}s:24:"al2fb_facebook_link_time";a:1:{i:0;s:25:"2012-04-11T19:46:57+00:00";}s:27:"al2fb_facebook_link_picture";a:1:{i:0;s:46:"wordpress=http://www.sowrey.org/?al2fb_image=1";}}}

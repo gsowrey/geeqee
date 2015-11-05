@@ -1,0 +1,15 @@
+³Ž;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";s:3:"910";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2008-03-10 01:06:02";s:13:"post_date_gmt";s:19:"2008-03-10 07:06:02";s:12:"post_content";s:2106:"Well, the wedding's done, Tamara and Dan are wed, and pretty much everyone is pooped. The bridal party was out late the night before, the groom's group was fairly tired, and I'm just beat from all the running around. My feet are killing me.
+
+It wasn't the shortest wedding I've been to, but it was definitely more expedient than most of the ones I've seen. That said, it was still a lovely ceremony.
+
+<!--more-->I followed Tamara most of the day, her unofficial tied-to-the-hip photographer. Hair, make-up, nails, ceremony preparation, and post-professional pictures, before all heading off to dinner. I was fortunate enough to be treated almost like the wedding party without actually being one of them. It was nice to be considered in such a way, especially when it wasn't really place.
+
+Yes, Tamara cried. So did I. (I cry at every wedding.) It's hard not to when things turn out that well. The wedding chapel at the Mandalay Bay might be a bit "assembly line"-ish, but it's really a nice way to have weddings. It's definitely not your stereotypical Vegas chapel. Not an Elvis to be seen.
+
+Following the ceremony and the post-professional pictures, we all went to Chinois at the Forum Shops. It's a Wolfgang Puck restaurant. Very tasty. Our "private room" was a great balcony overlooking the mall itself. It wasn't loud at all, and much rejoicing was had.
+
+But now I stand in Maccaran International, awaiting my flight home at 2:10. Yes, that's 02:10, as in AM, after midnight. I land in Calgary just before 6, then head right into work. Yes, I'm insane. But you already knew that.
+
+So to the newly-minted couple, I offer only my best hopes and wishes for life, love, and happiness. The minister was right -- there is no gambling in love. There are no "ifs" or "in case of fires". There is compromise and understanding, but love has a way of making that almost easy. May your remaining days in Las Vegas be full of fun and rest (you guys need it), and we all look forward to seeing you in Calgary.
+
+Congratulations my friends. And thank you for letting me be a part of your day in the sun.";s:10:"post_title";s:14:"On my way home";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:14:"on-my-way-home";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2009-08-21 13:33:31";s:17:"post_modified_gmt";s:19:"2009-08-21 19:33:31";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:48:"http://www.sowrey.org/2008/03/10/on-my-way-home/";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"4";}}

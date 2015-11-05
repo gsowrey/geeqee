@@ -1,0 +1,19 @@
+Ž—;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";s:3:"964";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2008-05-07 16:56:08";s:13:"post_date_gmt";s:19:"2008-05-07 22:56:08";s:12:"post_content";s:2808:"One of the hard parts about leaving any group is passing your legacy off to someone else. It doesn't matter if it's a short-term thing (e.g. vacation) or a long-term thing (e.g. leaving the company). It still has to happen -- unless you're a total jerk and want to leave people hanging, that is. It's just how you carry it out.
+
+I'm on my second round of brain transfer in two months. The first time was when I was getting ready to go on vacation. I had to pass off my daily tasks to someone else so they'd get done. But you can't easily toss one person's work onto just one other person. Especially when you know there's a lot to be done. A month ago, I used four people.
+
+This time, it's just one. My replacement.
+
+<!--more-->I'm still having issues with that word: replacement. I'm leaving the Rolex team here at Critical Mass. It's hard. Really hard. Yes, I'm going to Costa Rica, and yes, it's a pretty cool thing. But this team (the whole team, not just the developers whom I direct) has worked miracles over the last 2.5 years. They're stars -- all of them. I've seen the most amazing things done with the most insane requirements. I should know -- I made some of those requirements. The team brought them to life.
+
+Anyone who thinks it was easy for me to decide to go to Costa Rica doesn't understand what it's like to be on this team. It's almost a family within a family. You bond through adversity, and the challenges that we've put ourselves up to have done a hell of a bonding job. That, and the client is BAR NONE the best I've ever worked for.
+
+That's hard to walk away from. It's also hard to teach.
+
+Torin's taking over. He's getting his (long-overdue) promotion and starting his tenure at the Technology helm. I envy him in many ways. Notably that after over a year of working with RedDot, we've finally realised what works and what doesn't, and the team has come up with a killer solution that delivers what we really need to make the site run the way we wanted it to run. It's the start of another era, and I'm going to miss all of it.
+
+I'm a fan of setting people up for success, so my job now is to train Torin. I have to teach him 2.5 years of history, politics, technology, patterns, strategies, successes, failures, vendors, partners, and people so that he can walk in and not feel totally left out to dry. It's daunting. I've seen his head spin a couple of times already as I empty my brainpan onto the table.
+
+It's scary, actually. I can't believe how much I've learned over the last 2.5 years. I worry if I can do Torin justice by teaching him enough. But it's do or die time -- either I succeed, or he won't (as easily, anyway).
+
+There are times when I wish I had an assistant who did nothing but write down what I know. Man, would that ever make life easier...";s:10:"post_title";s:38:"What have you done with Spock's brain?";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:36:"what-have-you-done-with-spocks-brain";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2009-12-24 00:02:40";s:17:"post_modified_gmt";s:19:"2009-12-24 06:02:40";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:28:"http://www.sowrey.org/?p=964";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

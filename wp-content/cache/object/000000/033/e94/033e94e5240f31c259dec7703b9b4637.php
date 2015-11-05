@@ -1,0 +1,17 @@
+Pè;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":25:{s:2:"ID";i:308;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2003-11-24 16:17:36";s:13:"post_date_gmt";s:19:"2003-11-24 22:17:36";s:12:"post_content";s:2441:"It's not every day that you turn 30. Unfortunately, it's long since been my turn.
+
+This time, it was for my friend Teak. You may remember Teak from a previous birthday of his, when Chris and I felt the need for a little revenge (see [[Revenge is Sweet]]). Having no reason to torture my friend, I felt it necessary to show my support for a fellow over-the-hiller.
+
+Teak had reserved the upper floor of Soho, one of the trendier bars in town. Why the upper floor? Teak knows how to throw a party -- he invited 250 people. Now the first rule of parties is to always invite a lot more people than you expect to show up, because about half won't come. Teak planned for that, and the upmost floor was ideally suited for 100-130 people.
+
+Tamara, Sheldon (Tamara's new boyfriend), and I headed out shortly before 19:30 to rendezvous with the gathering throng at Soho. We were among the first to arrive. Such is the norm, really -- most people seem to like doing what they did in high school, and be fashionably late.
+
+In our haste to leave the house, I realized (much to my chagrin) that I'd forgotten my camera. I had only recently got it back from Adrian, who had taken it on his whirlwind trip to Japan and the Philippines. I wanted to take photos at Teak's birthday -- mostly for Chris, who's still trapped in Japan.
+
+Soon, members of the ABC (Asian Brother Crew) started to appear. Fritz and Jin were the first (after Tamara and I), followed soon after by Adrian. Doug appeared not too long after. A few others from Critical Mass (Karen, Mark G., Mark E.) also arrived, as did Arif (arriving with Teak's girlfriend Rose), Arthur (with friend Tanya), and former teammate Bonnie (with partner Mandy). We were outnumbered, however, by the rest of Teak's friends, a few of whom I vaguely knew.
+
+Tamara and Sheldon didn't stay too long before leaving. They didn't quite feel like they fit in. (And I did?) I hung out for a while with the ABCs, talked with Bonnie and Mandy for a long time, and then had a long chat with Arthur and Tanya. I couldn't stay too long, as my stamina isn't quite what it usually is. But without knowing it, I'd lasted until after midnight.
+
+Arriving home, I flopped on the couch to peruse the late night Saturday television lineup. But once Miao Yin had made herself comfortable in my lap, staying awake just wasn't a possibility. I passed out. Explains the kink in my neck.
+
+I'm getting too old for this.";s:10:"post_title";s:24:"Happy 30th Birthday Teak";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:24:"happy-30th-birthday-teak";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2006-12-08 12:52:58";s:17:"post_modified_gmt";s:19:"2006-12-08 19:52:58";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:68:"http://www.sowrey.org/index.php/2003/11/24/happy-30th-birthday-teak/";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

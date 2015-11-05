@@ -1,0 +1,25 @@
+èô;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":25:{s:2:"ID";i:507;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2006-12-09 22:54:31";s:13:"post_date_gmt";s:19:"2006-12-10 05:54:31";s:12:"post_content";s:4017:"Wow.
+
+I've seen some pretty swanky parties, but this one definitely ranks high up there. And as more of a stunner, it was a Critical Mass party, too!
+
+Okay, clarification needed. Critical Mass' parties tend to be like this: Beer.
+
+It's that simple. We tend not to do anything fancy because we're a pretty down-to-earth kind of company. You don't need much to make people happy. It's a formula that's worked well.
+
+Add spouses/significant others to the mix, and you really do need to dial things up. And boy-oh-boy, did the organizers do one hell of a job at that!
+
+Our party took place in the Big Four Building, Hall A. When I read that, the first thing that came to mind was the casino that's there. It wouldn't surprise me to be in a casino (see [[The 2004 Critical Mass New Year Party]]), but somehow it didn't seem right. (And I don't mean "right" as in "right to do"; it just didn't seem like we'd do it.) As it turns out, Hall A is a space I've noted before, but perennially forgotten about.
+
+The theme, as you've noticed, was about New York City. Why, I'm not sure. But it didn't matter. The inside featured skylines (in projection), display cases from Bloomingdales and Macy's, fake street signs. Christmas trees were everywhere. Not green ones -- white and silver with wonderfully sparkly ornaments. A lone saxophone player jazzed along as we entered, his sound echoing through the massive room. A stage dominated the south wall, where Dewi (our Sound Producer) and his band would play some serious funk later on. The north wall was the bar (this is a <em>Critical Mass</em> party, don't forget). The centre of the room were the tables.
+
+Alex was impressed. Thoroughly. Stunned, actually. She was envious that Critical Mass' party was better than her department's. That made me feel pretty good, actually.
+
+We acquired a couple of drinks, toured the facilities, chatted with those who wandered in (I must have introduced Alex to about a hundred people -- I'll be surprised if she remembers <em>any</em> of them; I wouldn't). Eventually we took a table with Torin, Danny, Pavel and their significant others to await dinner.
+
+For a place that's renowned for their corn dogs, I do have to say that Stampede Catering makes a fine roast beef. The food was outstanding. The desserts were <em>deadly</em>. The conversation outstanding, even if we did have to try overpower the band.
+
+Although most took off early (only a small contingent ended up a Ducky's; I was not one of them this time), it was not for lack of entertainment or a good time. It was, by many respects, one of Critical Mass' best soirees I think. The only thing I would have changed is the volume of music.
+
+Either that or I'm getting old...
+
+[photopress:_mg_5210.jpg,thumb,pp_image][photopress:_mg_5213.jpg,thumb,pp_image][photopress:_mg_5215.jpg,thumb,pp_image][photopress:_mg_5216.jpg,thumb,pp_image][photopress:_mg_5217.jpg,thumb,pp_image][photopress:_mg_5218.jpg,thumb,pp_image][photopress:_mg_5219.jpg,thumb,pp_image][photopress:_mg_5220.jpg,thumb,pp_image][photopress:_mg_5222.jpg,thumb,pp_image][photopress:_mg_5223.jpg,thumb,pp_image][photopress:_mg_5224.jpg,thumb,pp_image][photopress:_mg_5225.jpg,thumb,pp_image][photopress:_mg_5226.jpg,thumb,pp_image][photopress:_mg_5227.jpg,thumb,pp_image][photopress:_mg_5228.jpg,thumb,pp_image][photopress:_mg_5229.jpg,thumb,pp_image][photopress:_mg_5230.jpg,thumb,pp_image][photopress:_mg_5231.jpg,thumb,pp_image][photopress:_mg_5232.jpg,thumb,pp_image][photopress:_mg_5233.jpg,thumb,pp_image][photopress:_mg_5234.jpg,thumb,pp_image][photopress:_mg_5235.jpg,thumb,pp_image][photopress:_mg_5236.jpg,thumb,pp_image][photopress:_mg_5237.jpg,thumb,pp_image][photopress:_mg_5238.jpg,thumb,pp_image][photopress:_mg_5239.jpg,thumb,pp_image][photopress:_mg_5240.jpg,thumb,pp_image][photopress:_mg_5241.jpg,thumb,pp_image][photopress:_mg_5242.jpg,thumb,pp_image][photopress:_mg_5244.jpg,thumb,pp_image][photopress:_mg_5245.jpg,thumb,pp_image][photopress:_mg_5247.jpg,thumb,pp_image]";s:10:"post_title";s:44:"The Critical Mass New York Extravaganza 2006";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:44:"the-critical-mass-new-york-extravaganza-2006";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2009-12-24 00:05:25";s:17:"post_modified_gmt";s:19:"2009-12-24 06:05:25";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:88:"http://www.sowrey.org/index.php/2006/12/09/the-critical-mass-new-york-extravaganza-2006/";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

@@ -1,0 +1,9 @@
+E›;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":25:{s:2:"ID";i:1027;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2008-08-07 08:38:06";s:13:"post_date_gmt";s:19:"2008-08-07 14:38:06";s:12:"post_content";s:994:"It's weird. I'm not sure what it is. When I was in Panama a few weeks ago, I was out happily snapping pictures when, for reasons I simply don't understand, the auto-focus stopped working.
+
+My first thought was condensation. My camera had been inside an air-conditioned room for a day or so, and Panama is warm and humid. Bad combination for cameras, I tell you. I figured enough time to warm up and allow the condensation to leave should be enough.
+
+It's been a few weeks. The auto-focus still doesn't work. The camera still seems to take decent pictures (manual focus is still available), but I've come to rely on the auto-focus to make sure my pictures are tack sharp.
+
+I've checked the AF regions. I've reset all the settings. I've cleaned the pins and lens contacts (it happens with both my lenses). I've cleaned the mirror, too.
+
+Anyone know what might be wrong? I'm outta ideas, and sending my camera to the shop to fix here in Costa Rica raises a number of language-based issues.";s:10:"post_title";s:30:"My Canon Rebel XT doesn't work";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:29:"my-canon-rebel-xt-doesnt-work";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2009-08-20 14:33:56";s:17:"post_modified_gmt";s:19:"2009-08-20 20:33:56";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:29:"http://www.sowrey.org/?p=1027";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"5";s:6:"filter";s:3:"raw";}}

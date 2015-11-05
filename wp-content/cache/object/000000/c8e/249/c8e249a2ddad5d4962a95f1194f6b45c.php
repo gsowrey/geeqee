@@ -1,0 +1,31 @@
+‰œ;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";s:3:"398";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2004-10-22 22:58:20";s:13:"post_date_gmt";s:19:"2004-10-23 04:58:20";s:12:"post_content";s:5143:"We had 2005 planning meetings this week, on Tuesday, Wednesday, and Thursday. They can be quite painful, if for no reason other than for going over projects all day. It really wears on the brain, and the body. Well, my body, anyway. I have to drink Coke to focus well, since these meetings have a tendency to cause my brain to tune out. At the end of Wednesday, I was exhausted. It also didn't help that I was having to stay late to catch up on work I was unable to do during the day.
+
+But as is typical with these annual meetings, we usually have an annual team building event. There were no green alligators or long-necked geese this year (see [[2003 planning meeting wrap party]]), which I'm partially thankful for. (That had been a lot of fun, but I felt quite hungover the next day ... not that today is going all that swimmingly, I might add.)
+
+Following the end of our work day, those of us on the Mercedes-Benz USA account high-tailed it over to Eau Claire Market and the Cinescape, an arcade/lounge attached to the Cineplex Odeon theatre. We didn't know exactly what was in store for us, especially since Scott, Torin, and I were the first to arrive.
+
+Somehow, though, we stuck out like a giraffe in a penguin parade, and a very helpful server by the name of Nigel came to our rescue. We had two pool tables, a series of tables, and an unlimited bar tab at our disposal, with food coming along shortly thereafter.
+
+Let the party begin.
+
+By 18:00, most of those who would be attending had arrived. Although the team numbers about 60, maybe only 2/3 of them showed up. While we waited for dinner, we played pool (I got smoked by Torin and Casey, who are both pool sharks) and chatted amongst ourselves. Some of the designers played darts (which, after Luke's going away party -- see [[Luke leaves Critical Mass]] -- I had decided I was going to avoid).
+
+Dinner was quite good -- much better than I had expected. Salads, buns, mashed potatoes, steamed vegetables, and chicken or salmon (or both, if you prefered). It tasted great, even standing up. While we ate, the rules of the game were explained...
+
+Each of us were given $1,000 in Monopoly money (photocopied, mind you) and 40 game tokens. The idea was to bet each other on games and try win as much money as possible. We were divided into teams, and the team with the most money at the end won the bragging rights. (As it stands, it's up for debate which team ultimately ended up winning, no doubt in part to the quantities of alcohol consumed.)
+
+Not being a betting man, myself (I follow the wise words of Jack Burton: When the earth quakes, the poison arrows fall from the sky, and the pillars of Heaven shake, just look that big old storm right in the eye and say, "Give me your best shot. I can take it!" ... no wait, wrong quote ... I never bet my money, only my life). I pocketed the whole wad in my back pocket and played dumb the rest of the evening.
+
+For those of you who know me, I can play dumb real well.
+
+I finally beat Adrian in a game of air hockey. It's taken a while. It was a hard-fought game, with both of us sending the puck in multiple directions off the table. The score came down to 7-6. It would be the last time I choose to challenge Adrian last night. (I would take Scott later on, but I can't remember exactly who won ... it was probably him.) I jumped in and out of games throughout the night, until all my tokens (including a healthy refill from Dan) were depleted. My trigger finger hurt.
+
+Talking and boasting continued until the lounge closed, and we all headed over to the Barley Mill to continue. Now, true believers, this is where things get a tad hazy, because I'm not entirely sure how long we were there for. I do remember one beer and playing a game where you try to guess what three words have in common (quite a good game, I might add). But that's it. I don't think we were there very long before we all upped and headed for Chinese.
+
+We lost two along the way, but Dan was still leading the charge. We ended up at Me and U, on the corner of 3rd Ave. and Centre Street. I'd never been there before, but it seemed like fun. Or would have. You see, as soon as I sat down and had my first cup of tea, my body started to rebel. I went to the bathroom and stood over the sink for about 10 minutes before Dan came to find me. I'd officially had the buscuit, and headed home.
+
+I don't know what happened. I honestly don't think I'd had that much. Maybe I did, and just don't remember. Either way, though, the walk home wasn't pleasant. I wasn't sick, just really dizzy. It wasn't like any enbriated state I'd experienced. Mind you, my memory was a little off, so it wasn't easy to tell.
+
+Speaking of memory, mine was so shot that I didn't wake up until 8:30, thanks to Tamara making noise in the bathroom. Crap. I hauled ass and was out of the house in less than 10 minutes, arriving at work just over an hour late. I depleted the Bistro's supply of ginger ale. Ate several slices of banana bread. But it wasn't until the greasy A&W lunch that I started to feel normal again.
+
+Thank god we only do this once a year...";s:10:"post_title";s:22:"Mercedes team building";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:22:"mercedes-team-building";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2009-12-24 00:06:48";s:17:"post_modified_gmt";s:19:"2009-12-24 06:06:48";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:66:"http://www.sowrey.org/index.php/2004/10/22/mercedes-team-building/";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

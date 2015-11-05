@@ -1,0 +1,11 @@
+(ç;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";s:3:"505";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2006-12-05 12:34:36";s:13:"post_date_gmt";s:19:"2006-12-05 19:34:36";s:12:"post_content";s:1295:"There is little that I hate more than dishonesty. Especially when it's a veil for incompetence. 
+
+Take the vendor we've been working with lately (please). We've been asking them for what I think is a fairly simple set of assets. Nothing fancy, just a copy of the files on a server, a correct database backup, and configuration files. 
+
+What we get are hums and hahs, deference, indifference, no answers to requests, near belligerency when we do get a response, incomplete information, missing information, or an outright disregarding of recommended instructions to make the path easier. 
+
+Ultimately, we will have to save the day. Like it or not, the inability for the vendor to support our needs doesn't mean we're off the hook. It still has to happen. We have no choice in that matter. I just hate always having to be on the end of doing the near-impossible. (Okay, <em>I'm</em> not doing the actual work, but people on my team are getting stuck with it. It's the principle of the matter.)
+
+It's funny how often we run into this sort of thing in marketing. I suppose that's part-and-parcel of the job, right? I'd like to think that I'm not dishonest, and that if put in the opposite situation, that as a vendor I'd be completely cooperative and helpful. 
+
+But maybe that's just me...";s:10:"post_title";s:23:"Dishonesty in marketing";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:23:"dishonesty-in-marketing";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2006-12-05 12:34:36";s:17:"post_modified_gmt";s:19:"2006-12-05 19:34:36";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:67:"http://www.sowrey.org/index.php/2006/12/05/dishonesty-in-marketing/";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

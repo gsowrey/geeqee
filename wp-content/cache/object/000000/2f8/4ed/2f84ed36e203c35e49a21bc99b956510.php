@@ -1,0 +1,22 @@
+{ ;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":25:{s:2:"ID";i:2;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2007-01-04 14:27:56";s:13:"post_date_gmt";s:19:"2007-01-04 21:27:56";s:12:"post_content";s:3611:"My name is Geoff Sowrey, and this is as official a home for me as anything else. In a (very short) word, I'm a <a href="http://en.wikipedia.org/wiki/Geek">geek</a>. Not the carnival performing variety (I prefer my chickens pre-cooked, thank you) -- the techno-obessive, shiny-object-following, <a href="http://www.sowrey.org/photos/trains/">train-chasing</a> type.
+
+I'm also a technical geek, which is how I make a living. The short version is I make websites. (The long version is pretty much almost an entire blog onto itself.) I have <a href="http://www.geeqee.ca/">a little one-man operation</a> that pays the bills.
+
+I've used computers since the late 1970s (Snoopy vs. The Red Baron, a math game, on an <a href="http://en.wikipedia.org/wiki/Apple_II">Apple II</a>). The first computer I had was an <a href="http://en.wikipedia.org/wiki/IBM_PC">IBM PC 5150</a> in 1982. I taught myself BASIC. I learned HTML from <a href="http://arts.uwaterloo.ca/~nrandall/">my English Rhetoric professor</a>. And yes, I have a Mac.
+
+I've worked on the internet since early 1992. That means I've been around long enough to know the web before the graphical browser, back when <a href="http://en.wikipedia.org/wiki/Gopher_(protocol)">Gopher</a>, <a href="http://en.wikipedia.org/wiki/Wide_Area_Information_Servers">WAIS</a>, <a href="http://en.wikipedia.org/wiki/Veronica_(computer)">Veronica</a>, <a href="http://en.wikipedia.org/wiki/Archie_search_engine">Archie</a>, and <a href="http://en.wikipedia.org/wiki/USENET">Usenet</a> reigned supreme. I know exactly what's happening behind the scenes when you type in "www.google.com" into your browser, and how the page appears.
+
+I've seen the rise of the web from almost its infancy into the single most powerful communication and commerce tool since Gutenburg's days. No, I don't consider that hyperbole -- I believe it with every gram of my soul.
+
+Lest ye think I'm "one of those" who are rabid about the internet, that belief still comes with a substantial amount of feet-firmly-planted-on-ground. I don't believe in technology for technology's sake. I believe in function leading form, and that creative design is not only required but should be taken more seriously than "just make it look good".
+
+I'm a writer. I'm an architect. I'm a photographer. I'm a father. I'm an explorer. I'm a technologist. I'm only as old as I act. I read non-fiction and enjoy it. I watch movies and enjoy their deconstruction. I listen to <a href="http://en.wikipedia.org/wiki/Mozart">Mozart</a>, <a href="http://www.rollingstones.com/">The Rolling Stones</a>, <a href="http://www.corblund.com/">Corb Lund</a>, <a href="http://www.milesdavis.com/">Miles Davis</a>, <a href="http://www.myspace.com/tokyoskanet">Tokyo Ska Paradise</a>, <a href="http://en.wikipedia.org/wiki/Ministry_(band)">Ministry</a>, <a href="http://www.beastieboys.com/">Beastie Boys</a>, <a href="http://www.thehip.com/">The Tragically Hip</a>, <a href="http://www.kylie.com/">Kylie Minogue</a>, <a href="http://www.daftpunk.com/">Daft Punk</a>, <a href="http://www.weezer.com/">Weezer</a>, and <a href="http://www.weirdal.com/">Weird Al Yankovic</a>. I know the meanings of "art", "silence", and "think". And I get a kick out of surprising people.
+
+If you want more, I suggest looking into a few other sources:
+<ul>
+	<li><a href="http://www.flickr.com/photos/sowrey">Flickr</a></li>
+	<li><a href="http://twitter.com/sowrey">Twitter</a></li>
+	<li><a href="http://delicious.com/gsowrey">Del.icio.us</a></li>
+	<li><a href="http://www.linkedin.com/in/sowrey">LinkedIn</a></li>
+</ul>
+<!--%subpages%-->";s:10:"post_title";s:5:"About";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:5:"about";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2012-04-23 13:56:18";s:17:"post_modified_gmt";s:19:"2012-04-23 19:56:18";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:0:"";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"2";s:6:"filter";s:3:"raw";}}

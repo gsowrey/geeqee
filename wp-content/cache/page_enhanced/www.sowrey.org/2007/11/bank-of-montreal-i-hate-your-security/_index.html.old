@@ -1,0 +1,1077 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<title>Bank of Montreal, I hate your security | The Observer&#039;s Log</title>
+	<link rel="profile" href="//gmpg.org/xfn/11">
+	<link rel="pingback" href="//www.sowrey.org/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="//www.sowrey.org/wp-content/themes/yoko/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+	<title>Bank of Montreal, I hate your security | The Observer&#039;s Log</title>
+<link rel="alternate" type="application/rss+xml" title="The Observer&#039;s Log &raquo; Feed" href="//www.sowrey.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Observer&#039;s Log &raquo; Comments Feed" href="//www.sowrey.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Observer&#039;s Log &raquo; Bank of Montreal, I hate your security Comments Feed" href="//www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.sowrey.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='flickr-gallery-css'  href='//www.sowrey.org/wp-content/plugins/flickr-gallery/flickr-gallery.css?ver=1.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fg-jquery-ui-css'  href='//www.sowrey.org/wp-content/plugins/flickr-gallery/tab-theme/jquery-ui-1.7.3.css?ver=1.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-flightbox-css'  href='//www.sowrey.org/wp-content/plugins/flickr-gallery/flightbox/jquery.flightbox.css?ver=1.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wfm-lightbox-css-css'  href='//www.sowrey.org/wp-content/plugins/wordpress-flickr-manager/css/jquery.lightbox-0.5.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='yoko-fonts-css'  href='//fonts.googleapis.com/css?family=Droid+Sans%3A400%2C700%7CDroid+Serif%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='yoko-style-css'  href='//www.sowrey.org/wp-content/themes/yoko/style.css?ver=2013-10-21' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='//www.sowrey.org/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='//www.sowrey.org/wp-content/plugins/jetpack/css/jetpack.css?ver=3.7.2' type='text/css' media='all' />
+<script type='text/javascript' src='//www.sowrey.org/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='//www.sowrey.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='//www.sowrey.org/wp-content/plugins/flickr-gallery/flightbox/jquery.flightbox.js?ver=1.5.2'></script>
+<script type='text/javascript' src='//www.sowrey.org/wp-content/plugins/wordpress-flickr-manager/js/jquery.share.js?ver=4.3.1'></script>
+<script type='text/javascript' src='//www.sowrey.org/wp-content/plugins/wordpress-flickr-manager/js/wfm-share.js?ver=4.3.1'></script>
+<script type='text/javascript' src='//www.sowrey.org/wp-content/plugins/wordpress-flickr-manager/js/jquery.lightbox-0.5.min.js?ver=0.5'></script>
+<script type='text/javascript' src='//www.sowrey.org/wp-content/plugins/wordpress-flickr-manager/js/wfm-lightbox.js?ver=20110428'></script>
+<script type='text/javascript' src='//www.sowrey.org/wp-content/plugins/wordpress-flickr-manager/js/wfm-common.js?ver=20110429'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="//www.sowrey.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="//www.sowrey.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Office Influentials' href='//www.sowrey.org/2007/11/office-influentials/' />
+<link rel='next' title='Calgary is big enough for better transit' href='//www.sowrey.org/2007/11/calgary-is-big-enough-for-better-transit/' />
+<meta name="generator" content="WordPress 4.3.1" />
+<link rel='canonical' href='//www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/' />
+<link rel='shortlink' href='//wp.me/p1q2pu-dS' />
+<script type='text/javascript'>
+//<![CDATA[
+var WFM_ShareServices = ['facebook','twitter','delicious','digg','google'];
+//]]>
+</script><script type='text/javascript'>
+//<![CDATA[
+var WFM_PluginDir = 'http://www.sowrey.org/wp-content/plugins/wordpress-flickr-manager/';
+var WFM_ViewOnFlickr = 'View on Flickr';
+var WFM_CaptionLink = 'true';
+//]]>
+</script>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'>
+<link rel='dns-prefetch' href='//s0.wp.com'>
+<link rel='dns-prefetch' href='//s1.wp.com'>
+<link rel='dns-prefetch' href='//s2.wp.com'>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'>
+<link rel='dns-prefetch' href='//0.gravatar.com'>
+<link rel='dns-prefetch' href='//1.gravatar.com'>
+<link rel='dns-prefetch' href='//2.gravatar.com'>
+	<style type="text/css" id="yoko-themeoptions-css">
+		a {color: #009BC2;}
+		#content .single-entry-header h1.entry-title {color: #009BC2!important;}
+		input#submit:hover {background-color: #009BC2!important;}
+		#content .page-entry-header h1.entry-title {color: #009BC2!important;}
+		.searchsubmit:hover {background-color: #009BC2!important;}
+	</style>
+    			<script type="text/javascript">
+				var get_sizes = null;
+									(function($){
+						get_sizes = function(id){
+							var sizes;
+							$.ajax({
+								async: false,
+								data: {
+									action: "flickr-gallery-sizes",
+									id: id
+								},
+								dataType: "json",
+								type: "POST",
+								url: "http://www.sowrey.org/",
+								success: function(rsp) {
+									sizes = rsp;
+								}
+							});
+							return sizes;
+						};
+					})(jQuery);
+							</script>
+		
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Bank of Montreal, I hate your security" />
+<meta property="og:url" content="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/" />
+<meta property="og:description" content="Oh. My. Lord. I haven&#8217;t been this pissed off in a very, very long time. I actually yelled at the poor person on the phone trying to help me. It&#8217;s not her fault. It&#8217;s the Bank of M…" />
+<meta property="article:published_time" content="2007-11-14T19:41:57+00:00" />
+<meta property="article:modified_time" content="2009-08-21T16:11:35+00:00" />
+<meta property="og:site_name" content="The Observer&#039;s Log" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:card" content="summary" />
+
+<style id="custom-css-css">body #content{font:14pt/14pt Baskerville, Georgia, 'Times New Roman', Serif;line-height:.5em}body #content .page p,body #content .post p{padding:0 0 .5em;text-indent:1.5em}body #content .page p i,body #content .post p i{font-style:italic}</style>
+</head>
+
+<body class="single single-post postid-860 single-format-standard">
+<div id="page" class="clearfix">
+	<header id="branding">
+		<nav id="mainnav" class="clearfix">
+			<div class="menu"><ul><li ><a href="http://www.sowrey.org/">Home</a></li><li class="page_item page-item-2 page_item_has_children"><a href="http://www.sowrey.org/about/">About</a><ul class='children'><li class="page_item page-item-9"><a href="http://www.sowrey.org/about/resume/">Resume: Development Lead, Technical Communicator, Web Architect, and Programmer Analyst</a></li></ul></li><li class="page_item page-item-3507 page_item_has_children"><a href="http://www.sowrey.org/books/">Books</a><ul class='children'><li class="page_item page-item-3508 page_item_has_children"><a href="http://www.sowrey.org/books/the-shepherds-path/">The Shepherd&#8217;s Path</a><ul class='children'><li class="page_item page-item-3509"><a href="http://www.sowrey.org/books/the-shepherds-path/the-shepherds-path-wonder-chapter-1/">The Shepherd&#8217;s Path: Wonder, Chapter 1</a></li><li class="page_item page-item-3511"><a href="http://www.sowrey.org/books/the-shepherds-path/the-shepherds-path-wonder-chapter-2/">The Shepherd&#8217;s Path: Wonder, Chapter 2</a></li><li class="page_item page-item-3512"><a href="http://www.sowrey.org/books/the-shepherds-path/the-shepherds-path-wonder-chapter-3/">The Shepherd&#8217;s Path: Wonder, Chapter 3</a></li></ul></li></ul></li><li class="page_item page-item-499 page_item_has_children"><a href="http://www.sowrey.org/photos/">Photos</a><ul class='children'><li class="page_item page-item-802"><a href="http://www.sowrey.org/photos/railfan-day-in-big-valley/">Railfan Day in Big Valley</a></li><li class="page_item page-item-2741"><a href="http://www.sowrey.org/photos/the-great-2010-winnipeg-roadtrip/">The Great 2010 Winnipeg Roadtrip</a></li><li class="page_item page-item-2657"><a href="http://www.sowrey.org/photos/a-snapshot-of-costa-rica/">A Snapshot of Costa Rica</a></li><li class="page_item page-item-680"><a href="http://www.sowrey.org/photos/steam-locomotive-cn-6060-stettler-to-jasper-2001/">Steam Locomotive CN 6060: Stettler to Jasper 2001</a></li><li class="page_item page-item-2189"><a href="http://www.sowrey.org/photos/caribbean-getaway/">Caribbean Getaway</a></li><li class="page_item page-item-664"><a href="http://www.sowrey.org/photos/cp-2816-inaugural-run/">The Inaugural Run of the Empress, CP 2816</a></li><li class="page_item page-item-1205"><a href="http://www.sowrey.org/photos/new-years-eve-2008/">New Year&#8217;s Eve 2008</a></li><li class="page_item page-item-681"><a href="http://www.sowrey.org/photos/steam-locomotive-cn-6060-stettler-to-big-valley/">Steam Locomotive CN 6060: Stettler to Big Valley</a></li><li class="page_item page-item-1203"><a href="http://www.sowrey.org/photos/xmas-in-nyc-2008/">Xmas in NYC 2008</a></li><li class="page_item page-item-1281"><a href="http://www.sowrey.org/photos/a-weekend-in-montezuma/">A weekend in Montezuma</a></li><li class="page_item page-item-1014"><a href="http://www.sowrey.org/photos/panama-city-and-the-panama-canal/">Panama City and the Panama Canal</a></li><li class="page_item page-item-948"><a href="http://www.sowrey.org/photos/scotland-2008/">Scotland 2008</a></li><li class="page_item page-item-817"><a href="http://www.sowrey.org/photos/baby/">Baby Pictures</a></li><li class="page_item page-item-878"><a href="http://www.sowrey.org/photos/favourite-photos/">Favourite Photos</a></li><li class="page_item page-item-688"><a href="http://www.sowrey.org/photos/hawaii-big-island-2007/">Hawaii Big Island, 2007</a></li><li class="page_item page-item-510"><a href="http://www.sowrey.org/photos/paris-france-2006/">Paris, France 2006</a></li><li class="page_item page-item-646"><a href="http://www.sowrey.org/photos/england-scotland-ireland-2006/">England, Scotland, Ireland 2006</a></li><li class="page_item page-item-645"><a href="http://www.sowrey.org/photos/kauai-hawaii-2006/">Kauai, Hawaii 2006</a></li><li class="page_item page-item-644"><a href="http://www.sowrey.org/photos/costa-rica-2005/">Costa Rica 2005</a></li><li class="page_item page-item-643"><a href="http://www.sowrey.org/photos/2004-calgary-dragonboat-festival/">2004 Calgary Dragonboat Festival</a></li><li class="page_item page-item-641"><a href="http://www.sowrey.org/photos/turning-japanese-again/">Turning Japanese Again</a></li><li class="page_item page-item-511"><a href="http://www.sowrey.org/photos/cbc-television-50th-anniversary-via-rail-train/">CBC Television 50th Anniversary VIA Rail Train</a></li><li class="page_item page-item-642"><a href="http://www.sowrey.org/photos/around-calgary/">Around Calgary</a></li><li class="page_item page-item-640"><a href="http://www.sowrey.org/photos/turning-japanese/">Turning Japanese</a></li><li class="page_item page-item-635 page_item_has_children"><a href="http://www.sowrey.org/photos/critical-mass/">Critical Mass</a><ul class='children'><li class="page_item page-item-907"><a href="http://www.sowrey.org/photos/critical-mass/critical-mass-cmmy-2008/">Critical Mass CMMY 2008</a></li><li class="page_item page-item-897"><a href="http://www.sowrey.org/photos/critical-mass/big-rock-celebration/">Big Rock Celebration</a></li><li class="page_item page-item-872"><a href="http://www.sowrey.org/photos/critical-mass/critical-mass-christmas-party-2007/">Critical Mass Christmas Party 2007</a></li><li class="page_item page-item-853"><a href="http://www.sowrey.org/photos/critical-mass/critical-mass-calgary-halloween-2007/">Critical Mass Calgary Hallowe&#8217;en Party 2007</a></li><li class="page_item page-item-792"><a href="http://www.sowrey.org/photos/critical-mass/critical-mass-town-hall-2007-calgary-edition/">Critical Mass Town Hall 2007, Calgary Edition</a></li><li class="page_item page-item-675"><a href="http://www.sowrey.org/photos/critical-mass/cmmy-2007/">CMMYs 2007</a></li><li class="page_item page-item-659"><a href="http://www.sowrey.org/photos/critical-mass/christmas-party-2006/">Critical Mass Christmas Party 2006</a></li><li class="page_item page-item-658"><a href="http://www.sowrey.org/photos/critical-mass/summer-2006/">CM Rocks (all week)</a></li><li class="page_item page-item-657"><a href="http://www.sowrey.org/photos/critical-mass/cmmy-2006/">Critical Mass CMMY 2006</a></li><li class="page_item page-item-656"><a href="http://www.sowrey.org/photos/critical-mass/summer-2004/">Critical Mass Town Hall and Kananaskis Cowpunch</a></li><li class="page_item page-item-655"><a href="http://www.sowrey.org/photos/critical-mass/new-year-party-2004/">Critical Mass New Year Party 2004</a></li><li class="page_item page-item-653"><a href="http://www.sowrey.org/photos/critical-mass/christmas-charity-2003/">Gastronomic Propensity</a></li><li class="page_item page-item-652"><a href="http://www.sowrey.org/photos/critical-mass/reckless-summer-event/">Critical Mass Reckless Summer Event</a></li><li class="page_item page-item-509"><a href="http://www.sowrey.org/photos/critical-mass/new-year-party-2003/">Critical Mass New Year Party 2003</a></li><li class="page_item page-item-651"><a href="http://www.sowrey.org/photos/critical-mass/halloween-party-2002/">Critical Mass Halloween Party 2002</a></li><li class="page_item page-item-650"><a href="http://www.sowrey.org/photos/critical-mass/another-charity-pie-toss/">Another Charity Pie Toss</a></li><li class="page_item page-item-649"><a href="http://www.sowrey.org/photos/critical-mass/spirit-day/">Critical Mass Spirit Day</a></li><li class="page_item page-item-648"><a href="http://www.sowrey.org/photos/critical-mass/summer-2002/">Critical Mass 5th Anniversary</a></li><li class="page_item page-item-502"><a href="http://www.sowrey.org/photos/critical-mass/christmas-party-2001/">Critical Mass Christmas Party 2001</a></li><li class="page_item page-item-647"><a href="http://www.sowrey.org/photos/critical-mass/charity-pie-toss/">Charity Pie Toss</a></li><li class="page_item page-item-501"><a href="http://www.sowrey.org/photos/critical-mass/summer-social-2001-symons-valley-ranch/">Critical Mass Summer Social 2001, Symon&#8217;s Valley Ranch</a></li></ul></li><li class="page_item page-item-634 page_item_has_children"><a href="http://www.sowrey.org/photos/wedding/">Weddings</a><ul class='children'><li class="page_item page-item-765"><a href="http://www.sowrey.org/photos/wedding/kathryn-and-andreas-wedding/">Kathryn and Andrea</a></li><li class="page_item page-item-500"><a href="http://www.sowrey.org/photos/wedding/darren-and-jeannie/">Darren and Jeannie</a></li><li class="page_item page-item-638"><a href="http://www.sowrey.org/photos/wedding/cathy-and-craig/">Cathy and Craig</a></li><li class="page_item page-item-639"><a href="http://www.sowrey.org/photos/wedding/chris-and-kazumi/">Chris and Kazumi</a></li><li class="page_item page-item-637"><a href="http://www.sowrey.org/photos/wedding/fritz-and-jin/">Fritz and Jin</a></li><li class="page_item page-item-633"><a href="http://www.sowrey.org/photos/wedding/mark-and-darla/">Mark and Darla</a></li><li class="page_item page-item-513"><a href="http://www.sowrey.org/photos/wedding/gerry-and-sam/">Gerry and Sam</a></li></ul></li></ul></li><li class="page_item page-item-2941"><a href="http://www.sowrey.org/archives/">Archives</a></li></ul></div>
+		</nav><!-- end mainnav -->
+
+		
+		<hgroup id="site-title">
+					<h1><a href="http://www.sowrey.org/" title="The Observer&#039;s Log">The Observer&#039;s Log</a></h1>
+				<h2 id="site-description">A miscellany of know-it-all-isms by Geoff Sowrey</h2>
+				</hgroup><!-- end site-title -->
+
+        						<img src="//www.sowrey.org/wp-content/uploads/2015/05/cropped-16216885597_9c40931f81_o.jpg" class="headerimage" width="1102" height="350" alt="" /><!-- end headerimage -->
+										<div class="clear"></div>
+
+		<nav id="subnav">
+					</nav><!-- end subnav -->
+</header><!-- end header -->
+<div id="wrap">
+<div id="main">
+
+	<div id="content">
+
+	
+			
+<article id="post-860" class="post-860 post type-post status-publish format-standard hentry category-rants tag-bank-of-montreal tag-banks tag-internet tag-security">
+
+	
+	<header class="single-entry-header">
+		<h1 class="entry-title">Bank of Montreal, I hate your security</h1>
+			<p><span class="entry-date">14 November 2007</span> <span class="entry-author">by Geoff</span>  | <a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comments">23 Comments</a></p>
+	</header><!-- end single-entry-header -->
+		
+	<div class="single-entry-content">
+				<p>Oh. My. Lord.</p>
+<p>I haven&#8217;t been this pissed off in a very, very long time. I actually yelled at the poor person on the phone trying to help me. It&#8217;s not her fault. It&#8217;s the <a href="http://www.bmo.com">Bank of Montreal</a>. Who obviously has <strong>NO FUCKING CLUE</strong> what it&#8217;s like to live in the digital age.</p>
+<p>Allow me to elaborate&#8230;</p>
+<p><span id="more-860"></span>BMO (the short form of Bank of Montreal) recently introduced new security procedures for their online banking. In addition to your card number and PIN, you choose an image and provide a password. (This is all to prevent phishing.) I welcomed this, since I had similar functionality on my <a href="http://www.ingdirect.ca/">ING</a> account for a couple of years.</p>
+<p>So, choose an image, provide a little info, toss in a password. No problem.</p>
+<p>Until I came back. Suddenly, my previously wonderful password doesn&#8217;t work. No idea why. Could swear I&#8217;ve got the right one. Try again. And again. And suddenly, I get a page telling me that my card is locked (thankfully, only online) and to call BMO to have it unlocked.</p>
+<p>Which I got around to today. And boy, I can&#8217;t think of a worse experience. Ever.</p>
+<p>When you need access to personal financial information through your institution, you generally get asked the Big 6:</p>
+<ul>
+<li>Name</li>
+<li>Birthday</li>
+<li>Address</li>
+<li>Phone number</li>
+<li>Social Insurance (or Social Security) Number</li>
+<li>Mother&#8217;s maiden name</li>
+</ul>
+<p>Now, admittedly, anyone wanting to steal your identity could dig this information up and put it to nefarious means. So to that extent, I see that BMO&#8217;s approach for more information is necessary.</p>
+<p>Their additional questions:</p>
+<ul>
+<li>What investments do you have? (I have none with BMO, so this question is invalid)</li>
+<li>What are your monthly mortgage payments?</li>
+<li>What were the last three transactions in your account &#8212; including the name of the institution and the dollar amount?</li>
+</ul>
+<p>I need to get at least two of those right in order to be validated as me. Problem: <em>I DON&#8217;T HAVE ACCESS TO MY FUCKING ACCOUNT!</em>  So how the hell am I supposed to know?</p>
+<p>No, I don&#8217;t memorise <strong>every bloody number</strong> that goes in and out of my account. That&#8217;s what <em>monthly statements</em> are for. Or, better yet, the online banking website that <em>I don&#8217;t have access to!</em> I don&#8217;t want to know what my monthly mortgage payments are &#8212; I just want to know that they&#8217;re being paid, and that my mortgage is being paid down.</p>
+<p>This is the digital age, folks. People actively try not to know numbers. I can&#8217;t count the number of people I know who don&#8217;t know their own <em>phone numbers</em>, let alone their last three transactions. Besides, as you already know (because you asked) &#8212; <em>I&#8217;m married</em>, so <em>I don&#8217;t know the last three transactions because I might not have made them!</em></p>
+<p>This is an open letter to BMO: Find a process that does not require someone to have up-to-the-moment financial history. It&#8217;s not feasible, and it&#8217;s (obviously) too difficult for some of us poor schmucks who are more worried about forgetting their wife&#8217;s birthday.</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-860" class="share-twitter sd-button share-icon" href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-860" class="share-facebook sd-button share-icon" href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-860" class="share-google-plus-1 sd-button share-icon" href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-tumblr"><a rel="nofollow" data-shared="" class="share-tumblr sd-button share-icon" href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li><li class="share-end"></li></ul></div></div></div>			<div class="clear"></div>
+			
+								
+		
+	<footer class="single-entry-meta">
+		<p>			Categories: <a href="http://www.sowrey.org/category/rants/" rel="category tag">Rants</a> | 
+									Tags: <a href="http://www.sowrey.org/tag/bank-of-montreal/" rel="tag">bank of montreal</a>, <a href="http://www.sowrey.org/tag/banks/" rel="tag">banks</a>, <a href="http://www.sowrey.org/tag/internet/" rel="tag">internet</a>, <a href="http://www.sowrey.org/tag/security/" rel="tag">security</a> | 
+						<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/">Permalink </a>
+			</p>
+	</footer><!-- end entry-meta -->
+
+		</div><!-- end single-entry-content -->
+
+</article><!-- end post-860 -->
+<div class="clear"></div>				
+			
+<div id="comments"  class="clearfix">
+
+			<h3 id="comments-title">23 Comments</h3>
+			<p class="write-comment-link"><a href="#respond">Leave a reply &rarr;</a></p>
+		
+			<ol class="commentlist">
+					<li class="comment even thread-even depth-1" id="li-comment-3617">
+		<div id="comment-3617">
+		<div class="comment-gravatar"><img alt='' src='//0.gravatar.com/avatar/f699c193739bbfe5f742ca3ea8542c5d?s=65&#038;d=mm&#038;r=x' srcset='http://0.gravatar.com/avatar/f699c193739bbfe5f742ca3ea8542c5d?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn">Cath</cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-3617">
+			14 November 2007 at 13:59</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>So I&#8217;m interested in the end result?  Or did you hang up?</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li class="comment byuser comment-author-admin bypostauthor odd alt thread-odd thread-alt depth-1" id="li-comment-3618">
+		<div id="comment-3618">
+		<div class="comment-gravatar"><img alt='' src='//0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=65&#038;d=mm&#038;r=x' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn"><a href='http://www.sowrey.org/' rel='external nofollow' class='url'>Geoff</a></cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-3618">
+			14 November 2007 at 14:23</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>Augh&#8230; in all my anger, I forgot to mention the rest. </p>
+<p>I now need to physically walk to a BMO branch (one that doesn&#8217;t close at 5pm &#8212; not easy to come by, I&#8217;ll add!) and have them personally identify me as me, so I can get access to my account again.</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li class="comment byuser comment-author-admin bypostauthor even thread-even depth-1" id="li-comment-3619">
+		<div id="comment-3619">
+		<div class="comment-gravatar"><img alt='' src='//0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=65&#038;d=mm&#038;r=x' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn"><a href='http://www.sowrey.org/' rel='external nofollow' class='url'>Geoff</a></cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-3619">
+			14 November 2007 at 17:47</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>So I just went to the BMO nearest to my office. One I was assured would be open. Got there at 5:30. The sign on the door read:</p>
+<p>Closed 5 to 6. Sorry for the inconvenience.</p>
+<p>Argh.</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li class="comment byuser comment-author-admin bypostauthor odd alt thread-odd thread-alt depth-1" id="li-comment-3621">
+		<div id="comment-3621">
+		<div class="comment-gravatar"><img alt='' src='//0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=65&#038;d=mm&#038;r=x' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn"><a href='http://www.sowrey.org/' rel='external nofollow' class='url'>Geoff</a></cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-3621">
+			14 November 2007 at 19:02</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>Okay, just got back from another BMO branch, having chatted with Jason &#8211; the same wonderfully helpful person who helped us buy our house. He alluded to the fact that the Bank of Montreal has had a lot of fraud problems lately, so this is their response.</p>
+<p>To treat customers like thieves, and force them into the branches. (It happened to Jason, as well, for the record.)</p>
+<p>Anyway, got my account unlocked, but was chewed out (!) by the clerk on the phone as I&#8217;d given Jason my pin so he could access my account. HE WORKS FOR THE FREAKING BANK, YOU MORON.</p>
+<p>I hate stupid people.</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-3622">
+		<div id="comment-3622">
+		<div class="comment-gravatar"><img alt='' src='//0.gravatar.com/avatar/94464f8b701cd84f785f12a53620d292?s=65&#038;d=mm&#038;r=x' srcset='http://0.gravatar.com/avatar/94464f8b701cd84f785f12a53620d292?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn"><a href='http://n/a' rel='external nofollow' class='url'>Linda</a></cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-3622">
+			14 November 2007 at 20:01</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>When I was in Calgary last week I read in the paper where BMO was opening on Sundays in Calgary &#8211; that is more than it does down here!!</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-3624">
+		<div id="comment-3624">
+		<div class="comment-gravatar"><img alt='' src='//0.gravatar.com/avatar/6a19ce0f41133e2a5309a1d32fe14411?s=65&#038;d=mm&#038;r=x' srcset='http://0.gravatar.com/avatar/6a19ce0f41133e2a5309a1d32fe14411?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn"><a href='http://blog.scottgmorgan.com' rel='external nofollow' class='url'>Scott</a></cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-3624">
+			15 November 2007 at 01:31</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>I hear they are shortening their name to BM. Sorry for the potty humour, I couldn&#8217;t resist.</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-3625">
+		<div id="comment-3625">
+		<div class="comment-gravatar"><img alt='' src='//0.gravatar.com/avatar/f699c193739bbfe5f742ca3ea8542c5d?s=65&#038;d=mm&#038;r=x' srcset='http://0.gravatar.com/avatar/f699c193739bbfe5f742ca3ea8542c5d?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn">Cath</cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-3625">
+			15 November 2007 at 06:54</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>Certainly hope you&#8217;ve changed your PIN now!</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-3629">
+		<div id="comment-3629">
+		<div class="comment-gravatar"><img alt='' src='//1.gravatar.com/avatar/7205aa50742cd244dd5787d8b31b6744?s=65&#038;d=mm&#038;r=x' srcset='http://1.gravatar.com/avatar/7205aa50742cd244dd5787d8b31b6744?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn">Karen</cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-3629">
+			15 November 2007 at 14:55</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>You should be doing business with the Royal Bank of Scotland (AKA Citizen&#8217;s Bank here in the States&#8230;&#8230; our local branch ATM&#8217;s first screen is in Spanish&#8230;.. EXCUSE ME&#8230;. this is English country or used to be. Did I happen to mention that the lane approaching the ATM has had a &#8220;CLOSED&#8221; amber light glowing for the last 3 months???? ATM works fine. Today was a new experience&#8230;.. received a check from a large health care provider drawn on JP Morgan Chase&#8230;.. went to a branch of that bank, provided endorsed check and ID and was told that they could not cash check because health care company had not signed a &#8220;cash&#8221; option. Isn&#8217;t it fun in the 21st century???!!***&#8230;&#8230; am glad to see that you young people are frustrated as well as we seniors!!</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li class="comment byuser comment-author-admin bypostauthor even thread-even depth-1" id="li-comment-3640">
+		<div id="comment-3640">
+		<div class="comment-gravatar"><img alt='' src='//0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=65&#038;d=mm&#038;r=x' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn"><a href='http://www.sowrey.org/' rel='external nofollow' class='url'>Geoff</a></cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-3640">
+			19 November 2007 at 07:29</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>RBS has a branch in the USA? Weird&#8230; never thought that would extend out of, y&#8217;know, SCOTLAND. </p>
+<p>Is there money in the ATM on the closed lane? Just wondering if they decided that maybe the cost of running the ATM wasn&#8217;t worth having it, and shut it down as a test. If there&#8217;s money still in the thing, though, really begins to make you wonder&#8230;</p>
+<p>I&#8217;m also wondering what a &#8220;cash option&#8221; is. You received a cheque &#8212; something used to represent cash &#8212; to take to a bank, and they can&#8217;t turn it into cash? There are some really bizarre arcane rules in banks that just make me wonder sometimes.</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li class="post pingback">
+		<p>Pingback: <a href='http://experiencematters.criticalmass.com/2008/01/25/do-you-put-too-much-faith-in-technology/' rel='external nofollow' class='url'>Do you put too much faith in technology? at Experience Matters</a></p>
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-6904">
+		<div id="comment-6904">
+		<div class="comment-gravatar"><img alt='' src='//1.gravatar.com/avatar/466f803de70240eddc17e3a26816e5ac?s=65&#038;d=mm&#038;r=x' srcset='http://1.gravatar.com/avatar/466f803de70240eddc17e3a26816e5ac?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn">Screwed in China</cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-6904">
+			26 July 2009 at 10:37</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>Well, I think my story takes the cake. Try going travelling abroad to a far-away place, like&#8230;.China, and having BMO cancel your bank card without telling you. They explained it&#8217;s because they&#8217;ve been sending out new &#8220;chipped&#8221; bank cards which I have not activated yet. Well, they deem it necessary to cancel my current bank card when I haven&#8217;t activated my new one. That is one policy which really is a work of genius. Meanwhile, I&#8217;m stuck in a foreign land with no access to my account. When I finally got them on the phone and had my account re-opened (which only lasts for 30 days until I activate my new card, another brilliant policy), my fucking pin doesn&#8217;t work! I tried it too many times so that my account gets locked up again. So, back on the phone for long distance. Long story short, and two more phone calls later, they can&#8217;t give me any better advice than to try my original pin code. The agent, who was really at a loss when I asked her what else I could do because I&#8217;m fucking without money abroad, told me to try and set a pin for my credit card, a pin which cannot be given to me over the phone and must be mailed to my address in Canada whereupon I must call a family member to find out what it is.<br />
+To top it off, they have a branch where I am in Guangzhou and they told me that they do not dispense cash to account holders!<br />
+Totally, fucking useless. Talk about a catastrophic failure at making use of technology. In retrospect, I cannot fathom how I could have prevented this.</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li class="comment byuser comment-author-admin bypostauthor even thread-even depth-1" id="li-comment-6916">
+		<div id="comment-6916">
+		<div class="comment-gravatar"><img alt='' src='//0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=65&#038;d=mm&#038;r=x' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn">Geoff</cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-6916">
+			27 July 2009 at 08:34</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>Hey Screwed, </p>
+<p>My sympathies, man. Yours definitely outdoes mine. That&#8217;s a rather crappy situation, and unless you have someone on the other end who can help you out, I&#8217;m not sure what else you could do. I take it BMO&#8217;s &lt;sarcasm&gt;ever so helpful&lt;/sarcasm&gt; Direct Banking is of no help, eh?</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-7346">
+		<div id="comment-7346">
+		<div class="comment-gravatar"><img alt='' src='//0.gravatar.com/avatar/02b26047665178fc2da0d2e2ce35475b?s=65&#038;d=mm&#038;r=x' srcset='http://0.gravatar.com/avatar/02b26047665178fc2da0d2e2ce35475b?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn">Gasolene</cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-7346">
+			28 August 2009 at 23:07</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>Wow&#8230;</p>
+<p>I agree with you, BMO should compromise the security of other customers to avoid inconveniencing ignorant and irresponsible customers.</p>
+<p>You don&#8217;t know (or even want to know) your mortgage payment?</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li class="comment byuser comment-author-admin bypostauthor even thread-even depth-1" id="li-comment-7412">
+		<div id="comment-7412">
+		<div class="comment-gravatar"><img alt='' src='//0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=65&#038;d=mm&#038;r=x' srcset='http://0.gravatar.com/avatar/095609f98b14811f33ecac14add504b3?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn">Geoff</cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-7412">
+			30 August 2009 at 13:11</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>Sly point, Gasolene. I would prefer not to label myself as either &#8220;ignorant&#8221; or &#8220;irresponsible&#8221;, as I&#8217;m usually very careful about access to my accounts. Instead, I would prefer that BMO consider other alternatives for identifying a specific person, especially when there is no possibility of them going into a specific branch to identify themselves.</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-13520">
+		<div id="comment-13520">
+		<div class="comment-gravatar"><img alt='' src='//0.gravatar.com/avatar/fed07b0266429d85bd0644e4d753a54d?s=65&#038;d=mm&#038;r=x' srcset='http://0.gravatar.com/avatar/fed07b0266429d85bd0644e4d753a54d?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn">Helen</cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-13520">
+			27 January 2011 at 07:53</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>Yes, I hate BMO.  I only have my mortgage there together with a house line of credit.  The mortgage payments are auto paid from my account with another bank.  Their website always said your password is wrong.  When you call, they asked difficult questions after verifying your ID.  As you don&#8217;t have access to your accounts online and you seldom use the bank account, how will you remember your last transaction amount and name 3 payees of your telephone banking if you stopped using it for almost 10 years.  Then they asked you to go to a branch to verify your ID again and asked you to come back home to call their Customer Service again.  This is the only bank which I have encountered so many problems and inconveniences in forgetting a password.  The one who designed the questiosn have to be fired!  Also, something must be wrong with their login as so many of us encountered this problem even though we put in the correct password.  There is another problem if you are using a different computer (house or office or a laptop).  So annoying.  I went to the branch to verify myself one time and the teller called their own customer service for me and got asked the same questions too. Even him had dififcult in answering all these super difficult questions when he has all my account details in front of him.  Took me almost 1/2 hour there as it took him 10 minutes to wait to get to speak to a live person and then another 15 minutes to answer those questions coming out of nowhere.  This time I went to the branch to verify myself after one month and I still have to call to get a password.  I&#8217;m still not ready to call &#8230;&#8230;as I have to get everything together &#8230; your credit limit, your last payment, etc.  and I have no clue at all on my payee list as I have moved which means city of hydro change, gas bills, telephone etc.   How can I retrieve those and answer them right again?????????????????????  I asked the Customer Service where I could complain to and was told &#8220;Customer Service&#8221;.  Isn&#8217;t it dummbbbbbbbbbbbbbbbb</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-15238">
+		<div id="comment-15238">
+		<div class="comment-gravatar"><img alt='' src='//1.gravatar.com/avatar/70115cbd1891abb78f66cca3f5c48772?s=65&#038;d=mm&#038;r=x' srcset='http://1.gravatar.com/avatar/70115cbd1891abb78f66cca3f5c48772?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn">BOO-BMO</cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-15238">
+			8 July 2011 at 14:16</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>Geoff,<br />
+Sign me the f**k up for your tour of BMO HATE!!! Someone phished me this week (it was a doozy!) and eventhough BMO called me first, I still had to leave work to physically go to a bloody branch and fill out some goddamned form. And then, NOTHING!!! I spent an entire day calling and got shipped around. Yelled at a few people and hung up on almost everyone for being idiots. Apparently, you have to deal with the branch that initiated the issue. SUPER! My home branch is on the other side of the effing country! With a fantastic timezone difference &#8211; try doing this on a Friday where I found out I have $0s in the bank. 3 days and they haven&#8217;t sorted this yet. And Mastercard?! BMO MASTERCARD IS A JOKE. I have been a faithful customer for over 15 years and this is how they treat me? FUCK YOU BMO, I&#8217;m gone.</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-18527">
+		<div id="comment-18527">
+		<div class="comment-gravatar"><img alt='' src='//0.gravatar.com/avatar/f51296d65ddcd5e3c6bc0f15a04b3309?s=65&#038;d=mm&#038;r=x' srcset='http://0.gravatar.com/avatar/f51296d65ddcd5e3c6bc0f15a04b3309?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn">Former BMO User</cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-18527">
+			25 October 2011 at 12:34</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>I stopped using my BMO Mastercard two years ago, after having used them almost exclusively for over 20 years.  I refuse to pay annual fees to use a credit card, and my &#8220;airmiles&#8221; benefit of one mile for every $40 spent was a joke.</p>
+<p>They also started the practice of charging me interest for late payments.  It&#8217;s funny how whenever I put through payments on the due date, it somehow gets to them several days later.  However, if I put a payment through several days earlier than the due date, they ALWAYS go through the same day it was authorized.  Nothing changed at my bank as they suggested, and all the other online payments I make are received on the date I authorized.  For several months, I called to complain about the interest charges, which take two months to clear.  They always told me &#8220;we&#8217;ll reverse the charges for you this time as a goodwill gesture &#8230;&#8221;  I also questioned them how it was goodwill on their part when they&#8217;ve screwed me again and I have to yet again waste me time to clear the account.  Also, they used to give a day or two of grace if you had missed a payment.  But, now if you&#8217;re a minute late, you&#8217;re getting charged back to when you used your card to make the purchase, then an additional charge the next month to clear up the balance they&#8217;ve attributed to you.</p>
+<p>Anyhow, I&#8217;ve switched to AMEX and am very happy with them and their rewards programs.  I get a cash rebate and they are very consistent with the same due date and end billing date each month, unlike MasterCard.  Access on the internet is also much easier.  I hope everyone cancels their Mastercard.</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-23788">
+		<div id="comment-23788">
+		<div class="comment-gravatar"><img alt='' src='//2.gravatar.com/avatar/50a3dc7df91ce6bb91c866b7c5fd6f3b?s=65&#038;d=mm&#038;r=x' srcset='http://2.gravatar.com/avatar/50a3dc7df91ce6bb91c866b7c5fd6f3b?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn">Fabiano</cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-23788">
+			19 October 2012 at 07:35</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>I have been requested too often to change my PIN. For the past 2 weeks, for example, it happened twice. I will end up using easy passwords, because it is hard to keep memorizing new passwords all the time. It loos like BMO does not try to improve the security in the source, but for Themis is simply easier to ask cosy omers to go to a branch to to whatever they ask. I will switch to another bank.</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-24000">
+		<div id="comment-24000">
+		<div class="comment-gravatar"><img alt='' src='//1.gravatar.com/avatar/7e3ebd32cd6ec15d231d15124d17f84a?s=65&#038;d=mm&#038;r=x' srcset='http://1.gravatar.com/avatar/7e3ebd32cd6ec15d231d15124d17f84a?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn">Mughal</cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-24000">
+			26 August 2013 at 08:29</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>It seems the &#8216;Techies&#8217; have no knowledge of the real world, nor any people skills, nor any concept of customer service.  The Techies themselves have transformed themselves into un-thinking automatons ((IMO). And yet the executives draw outrageous salaries and the bank charges exorbitant fees and what do the depositors get, lousy service!</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-24055">
+		<div id="comment-24055">
+		<div class="comment-gravatar"><img alt='' src='//0.gravatar.com/avatar/02fcbd9db7012534f8061e0a51364087?s=65&#038;d=mm&#038;r=x' srcset='http://0.gravatar.com/avatar/02fcbd9db7012534f8061e0a51364087?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn">Kevin</cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-24055">
+			20 January 2014 at 13:59</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>BMO is still doing this even now.. I got a call from them telling me they locked my card again. This has happened 3 times in the last 12 months and they replaced the cards each time. I&#8217;m now looking for a new bank and credit card.</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-24113">
+		<div id="comment-24113">
+		<div class="comment-gravatar"><img alt='' src='//2.gravatar.com/avatar/2649cc73c0d9b36da9b2a9b49fab8fbd?s=65&#038;d=mm&#038;r=x' srcset='http://2.gravatar.com/avatar/2649cc73c0d9b36da9b2a9b49fab8fbd?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn">Swen</cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-24113">
+			1 June 2014 at 08:29</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>Yes, they really dont know their business (aa i used to work for a bank, i know, what I am talking about).<br />
+I wanted to close my account and Mastercard.<br />
+Remainder on the mastercard 9.00# (b/c they charged me a plan fee on my checking, which is wrong in the first place as I put the account on hold a few months ago. So ripple effect starts and they pull 6 $ from my mastercard and charge me another 3.00$. Btw, this is not the first time this happens.</p>
+<p>So I tell the bank clerk, I will pay off all dept (9$ MC). As I am not seeing her screen, I dont know the exact amount and ask her how much is needed. As I still have 0.99$ on my checking it should be 8.01$ right?<br />
+She asks for 8$ and books this exact amount.<br />
+After forth and back i give her the 1 missing cent. and she also books this.<br />
+As I asked her to transfer the money (so that its on my MC immediately and I can also close the MC (for which I have to call MC &#8211; super integration of IT and their products *headshaking*).<br />
+End of story, a day later the money is still not on the MC account, but gone from my Checking, which she promised to close on tuesday (for whatever reason &#8211; something with the account fee).<br />
+1. people there (branch and phone) dont have a clue about their products, and their processes<br />
+2. their IT and software solutions is not integrated and this gives a big hazzle for which the customer has to pay..<br />
+3. Their accounts are quite expensive. &#8211;&gt; check out Tangerine account, which is free!, gives you even interest! and if you refer someone, you and the person gets 25-50$, plus if you get asked by them to add your salary to the account they give you another 100$s That is great!.<br />
+Btw their service is awesome 24/7 phone (yes no branches, but great online service and app)<br />
+In case you wanna start an account with them and get the 25$, use my reference key:  35623945S1, just open an account on their homepage and use the key. done and happy!</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-24277">
+		<div id="comment-24277">
+		<div class="comment-gravatar"><img alt='' src='//1.gravatar.com/avatar/a9b218c2a6e942495b11a74e3e08a023?s=65&#038;d=mm&#038;r=x' srcset='http://1.gravatar.com/avatar/a9b218c2a6e942495b11a74e3e08a023?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn">Dylan</cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-24277">
+			20 July 2014 at 08:49</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>I couldn&#8217;t confirm myself on the phone with the BMO.</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-24643">
+		<div id="comment-24643">
+		<div class="comment-gravatar"><img alt='' src='//2.gravatar.com/avatar/8dd746f6090e346a1073822e76c7491d?s=65&#038;d=mm&#038;r=x' srcset='http://2.gravatar.com/avatar/8dd746f6090e346a1073822e76c7491d?s=130&amp;d=mm&amp;r=x 2x' class='avatar avatar-65 photo' height='65' width='65' /></div>
+
+		<div class="comment-body">
+		<div class="comment-meta commentmetadata">
+		<cite class="fn">simon</cite><br/>
+		<a href="http://www.sowrey.org/2007/11/bank-of-montreal-i-hate-your-security/#comment-24643">
+			21 September 2014 at 01:43</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<p>I hate bmo</p>
+
+		
+		<div class="reply">
+					</div><!-- .reply -->
+
+		</div>
+		<!--comment Body-->
+
+	</div><!-- #comment-##  -->
+
+	</li><!-- #comment-## -->
+			</ol>
+				
+				
+		<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2007/11/bank-of-montreal-i-hate-your-security/#respond" style="display:none;">Cancel reply</a></small></h3>
+			<div id="commentform" class="comment-form">
+				<iframe src="http://jetpack.wordpress.com/jetpack-comment/?blogid=20982132&#038;postid=860&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=mystery&#038;greeting=Leave+a+Reply&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en-US&#038;jetpack_version=3.7.2&#038;sig=f327984a2584476dbf648b164370339920ac5b69#parent=http%3A%2F%2Fwww.sowrey.org%2F2007%2F11%2Fbank-of-montreal-i-hate-your-security%2F" allowtransparency="false" style="width:100%; height: 430px;border:0px;" frameBorder="0" scrolling="no" name="jetpack_remote_comment" id="jetpack_remote_comment"></iframe>
+			</div>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+		</div><!-- end comments -->
+				
+			<nav id="nav-below">
+				<div class="nav-previous"><a href="http://www.sowrey.org/2007/11/calgary-is-big-enough-for-better-transit/" rel="next">&larr; Previous Post</a></div>
+				<div class="nav-next"><a href="http://www.sowrey.org/2007/11/office-influentials/" rel="prev">Next Post  &rarr;</a></div>
+			</nav><!-- end #nav-below -->
+				
+	</div><!-- end content -->
+	
+
+<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-3" class="widget widget_search"><form role="search" method="get" class="searchform" action="//www.sowrey.org/" >
+    <div>
+    <input type="text" class="search-input" value="" name="s" id="s" />
+    <input type="submit" class="searchsubmit" value="Search" />
+    </div>
+    </form></aside><aside id="wpwordcount-2" class="widget wpwordcount"><h3 class="widget-title">How much have I written?</h3><p><b>Total:</b> 1,225,159 Words<br /></p></aside><aside id="text-4" class="widget widget_text"><h3 class="widget-title">Hey, I wrote a book!</h3>			<div class="textwidget">It's a short one, meant for kids, but if you're interested, maybe check it out? On <a href="http://store.kobobooks.com/en-CA/ebook/monkeystories" target="_blank">Kobo</a> and <a href="http://www.amazon.ca/Monkeystories-Geoff-Sowrey-ebook/dp/B00JTP035Y/ref=sr_1_3" target="_blank">Amazon</a>.</div>
+		</aside><aside id="text-5" class="widget widget_text"><h3 class="widget-title">Other Places to Find Me</h3>			<div class="textwidget"><a href="http://twitter.com/sowrey">Twitter</a><br>
+<a href="http://flickr.com/photos/sowrey">Flickr</a><br>
+<a href="http://facebook.com/sowrey">Facebook</a><br>
+<a href="http://linkedin.com/in/sowrey">LinkedIn</a><br>
+<a href="http://careers.stackoverflow.com/geoff.sowrey">Stack Overflow</a><br>
+<a href="https://www.youtube.com/user/gsowrey/">YouTube</a><br></div>
+		</aside><aside id="twitter_timeline-2" class="widget widget_twitter_timeline"><h3 class="widget-title">Follow me on Twitter</h3><a class="twitter-timeline" data-widget-id="344308598190526467" data-theme="light" data-link-color="#f96e5b" data-border-color="#e8e8e8" data-chrome="noheader nofooter transparent" height="450" lang="EN">My Tweets</a></aside>		<aside id="recent-posts-4" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://www.sowrey.org/2015/07/things-i-have-missed-about-summer-in-ontario/">Things I have missed about summer in Ontario</a>
+						</li>
+					<li>
+				<a href="http://www.sowrey.org/2015/04/how-to-fix-the-calgary-board-of-education/">How to fix the Calgary Board of Education</a>
+						</li>
+					<li>
+				<a href="http://www.sowrey.org/2015/04/what-canadian-politicians-have-forgotten/">What Canadian politicians have forgotten</a>
+						</li>
+					<li>
+				<a href="http://www.sowrey.org/2015/03/20-years-a-web-developer/">20 Years a Web Developer</a>
+						</li>
+					<li>
+				<a href="http://www.sowrey.org/2015/03/happy-5th-birthday-choo-choo/">Happy 5th Birthday, Choo Choo</a>
+						</li>
+					<li>
+				<a href="http://www.sowrey.org/2014/08/a-birthday-hike/">A birthday hike</a>
+						</li>
+					<li>
+				<a href="http://www.sowrey.org/2014/06/25-years-of-the-observer/">25 years of The Observer</a>
+						</li>
+				</ul>
+		</aside><aside id="recent-comments-4" class="widget widget_recent_comments"><h3 class="widget-title">Recent Comments</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='http://www.aboutfloorsnmore.com' rel='external nofollow' class='url'>About Floors N More</a></span> on <a href="http://www.sowrey.org/2007/11/laminate-flooring-sucks/#comment-26313">Laminate flooring sucks</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://Sowrey.org' rel='external nofollow' class='url'>Anna</a></span> on <a href="http://www.sowrey.org/archives/#comment-26307">Archives</a></li><li class="recentcomments"><span class="comment-author-link">dewy</span> on <a href="http://www.sowrey.org/2007/11/laminate-flooring-sucks/#comment-26304">Laminate flooring sucks</a></li><li class="recentcomments"><span class="comment-author-link">george k.</span> on <a href="http://www.sowrey.org/2007/11/laminate-flooring-sucks/#comment-26300">Laminate flooring sucks</a></li><li class="recentcomments"><span class="comment-author-link">Barb Thompson</span> on <a href="http://www.sowrey.org/2002/01/father-terminal-illness/#comment-26299">Coping with my Father&#8217;s Terminal Illness</a></li><li class="recentcomments"><span class="comment-author-link">Barb Thompson</span> on <a href="http://www.sowrey.org/2002/01/father-terminal-illness/#comment-26298">Coping with my Father&#8217;s Terminal Illness</a></li><li class="recentcomments"><span class="comment-author-link">Shiraz</span> on <a href="http://www.sowrey.org/2006/08/calgary-transit-sucks/#comment-26288">Calgary Transit Sucks</a></li><li class="recentcomments"><span class="comment-author-link">A-k</span> on <a href="http://www.sowrey.org/2002/01/father-terminal-illness/#comment-26274">Coping with my Father&#8217;s Terminal Illness</a></li><li class="recentcomments"><span class="comment-author-link">Blowme</span> on <a href="http://www.sowrey.org/2007/11/laminate-flooring-sucks/#comment-26272">Laminate flooring sucks</a></li><li class="recentcomments"><span class="comment-author-link">Barb Thompson</span> on <a href="http://www.sowrey.org/2002/01/father-terminal-illness/#comment-26271">Coping with my Father&#8217;s Terminal Illness</a></li></ul></aside><aside id="categories-4" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-1100"><a href="http://www.sowrey.org/category/careers/" >Careers</a> (188)
+</li>
+	<li class="cat-item cat-item-31"><a href="http://www.sowrey.org/category/children/" >Children</a> (106)
+</li>
+	<li class="cat-item cat-item-439"><a href="http://www.sowrey.org/category/costa-rica/" >Costa Rica</a> (93)
+</li>
+	<li class="cat-item cat-item-227"><a href="http://www.sowrey.org/category/family/" >Family</a> (94)
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.sowrey.org/category/general/" >General</a> (275)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.sowrey.org/category/photography/" >Photography</a> (13)
+</li>
+	<li class="cat-item cat-item-6"><a href="http://www.sowrey.org/category/pop-culture/" >Pop Culture</a> (70)
+</li>
+	<li class="cat-item cat-item-2"><a href="http://www.sowrey.org/category/rants/" >Rants</a> (101)
+</li>
+	<li class="cat-item cat-item-28"><a href="http://www.sowrey.org/category/renovations/" >Renovations</a> (65)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.sowrey.org/category/technology/" >Technology</a> (155)
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.sowrey.org/category/trains/" >Trains</a> (117)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.sowrey.org/category/travel/" >Travel</a> (396)
+</li>
+		</ul>
+</aside><aside id="recent-flickr-photos" class="widget FlickrManager_RenderRecentPhotoWidget"><h3 class="widget-title"><a href="http://www.flickr.com/photos/84035351@N00/"><img src="//www.sowrey.org/wp-content/plugins/wordpress-flickr-manager/images/flickr-media.gif" border="0" alt="Flickr" /></a> Recent Photos</h3><div style="text-align: center" id="wfm-recent-widget"></div></aside><aside id="text-2" class="widget widget_text"><h3 class="widget-title">I Like Trains</h3>			<div class="textwidget">Do you? Check out my other site, where I've started to focus my mild obsession: <a href="http://www.trainstalker.com/" target="_blank">The Trainstalker</a></div>
+		</aside>		</div><!-- #secondary .widget-area -->
+</div><!-- end main -->
+
+		<div id="tertiary" class="widget-area" role="complementary">
+						
+				</div><!-- end tertiary .widget-area -->
+</div><!-- end wrap -->
+
+	<footer id="colophon" class="clearfix">
+		<p>Proudly powered by <a href="http://wordpress.org/">WordPress</a><span class="sep"> | </span>Theme: Yoko by <a href="http://www.elmastudio.de/en/themes/">Elmastudio</a></p>
+		<a href="#page" class="top">Top</a>
+	</footer><!-- end colophon -->
+	
+</div><!-- end page -->
+	<div style="display:none">
+	<div class="grofile-hash-map-f699c193739bbfe5f742ca3ea8542c5d">
+	</div>
+	<div class="grofile-hash-map-095609f98b14811f33ecac14add504b3">
+	</div>
+	<div class="grofile-hash-map-4ddae1ee3780d87fe235b0f0722d51a5">
+	</div>
+	<div class="grofile-hash-map-6a19ce0f41133e2a5309a1d32fe14411">
+	</div>
+	<div class="grofile-hash-map-7205aa50742cd244dd5787d8b31b6744">
+	</div>
+	<div class="grofile-hash-map-466f803de70240eddc17e3a26816e5ac">
+	</div>
+	<div class="grofile-hash-map-02b26047665178fc2da0d2e2ce35475b">
+	</div>
+	<div class="grofile-hash-map-fed07b0266429d85bd0644e4d753a54d">
+	</div>
+	<div class="grofile-hash-map-70115cbd1891abb78f66cca3f5c48772">
+	</div>
+	<div class="grofile-hash-map-f51296d65ddcd5e3c6bc0f15a04b3309">
+	</div>
+	<div class="grofile-hash-map-50a3dc7df91ce6bb91c866b7c5fd6f3b">
+	</div>
+	<div class="grofile-hash-map-7e3ebd32cd6ec15d231d15124d17f84a">
+	</div>
+	<div class="grofile-hash-map-02fcbd9db7012534f8061e0a51364087">
+	</div>
+	<div class="grofile-hash-map-2649cc73c0d9b36da9b2a9b49fab8fbd">
+	</div>
+	<div class="grofile-hash-map-08ba608787a3676299e8e0461f1c8b12">
+	</div>
+	<div class="grofile-hash-map-8dd746f6090e346a1073822e76c7491d">
+	</div>
+	</div>
+		<script type="text/javascript">
+			!function(d,s,id){
+				var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+				if(!d.getElementById(id)){
+					js=d.createElement(s);
+					js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
+					fjs.parentNode.insertBefore(js,fjs);
+				}
+			}(document,"script","twitter-wjs");
+		</script>
+					<script type="text/javascript">
+				(function($){
+					$(function(){
+						$("img.flickr.square,img.flickr.thumbnail,img.flickr.small").flightbox({size_callback: get_sizes});
+					});
+				})(jQuery);
+			</script>
+		
+<!-- Google Universal Analytics for WordPress v2.4 -->
+
+<script>
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-72960-1', 'auto');
+
+
+
+
+	ga('set', 'forceSSL', true);
+	ga('send', 'pageview');
+
+</script>
+<!-- Google Universal Analytics for WordPress v2.4.2 - https://wordpress.org/plugins/google-universal-analytics -->
+
+
+<script type="text/javascript">
+
+	jQuery(document).ready(function(e) {
+    jQuery('a').click(function(e) {
+		var $this = jQuery(this);
+      	var href = $this.prop('href').split('?')[0];
+		var ext = href.split('.').pop();
+		if ('xls,xlsx,doc,docx,ppt,pot,pptx,pdf,pub,txt,zip,rar,tar,7z,gz,exe,wma,mov,avi,wmv,wav,mp3,midi,csv,tsv,jar,psd,pdn,ai,pez,wwf,torrent,cbr'.split(',').indexOf(ext) !== -1) {		
+        ga('send', 'event', 'Download', ext, href);
+      }
+	  if (href.toLowerCase().indexOf('mailto:') === 0) {
+        ga('send', 'event', 'Mailto', href.substr(7));
+      }
+	  if (href.toLowerCase().indexOf('tel:') === 0) {
+        ga('send', 'event', 'Phone number', href.substr(4));
+      }
+      if ((this.protocol === 'http:' || this.protocol === 'https:') && this.hostname.indexOf(document.location.hostname) === -1) {
+        ga('send', 'event', 'Outbound', this.hostname, this.pathname);
+      }
+	});
+});
+
+</script>
+
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"http:\/\/www.sowrey.org\/2007\/11\/bank-of-montreal-i-hate-your-security\/":860};
+	</script>
+	<div id="sharing_email" style="display: none;">
+		<form action="/2007/11/bank-of-montreal-i-hate-your-security/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			
+			<img style="float: right; display: none" class="loading" src="//www.sowrey.org/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-tumblr' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+		});
+		</script>
+		<script type='text/javascript' src='//www.sowrey.org/wp-content/plugins/akismet/_inc/form.js?ver=3.1.5'></script>
+<script type='text/javascript' src='//www.sowrey.org/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='//www.sowrey.org/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='//www.sowrey.org/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='//s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201545'></script>
+<script type='text/javascript' src='//s.gravatar.com/js/gprofiles.js?ver=2015Novaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.sowrey.org/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.3.1'></script>
+<script type='text/javascript' src='//www.sowrey.org/wp-content/themes/yoko/js/smoothscroll.js?ver=1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.sowrey.org/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=3.7.2'></script>
+
+		<!--[if IE]>
+		<script type="text/javascript">
+		if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+			// window.location.reload() doesn't respect the Hash in IE
+			window.location.hash = window.location.hash;
+		}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			var comm_par_el = document.getElementById( 'comment_parent' ),
+			    comm_par = (comm_par_el && comm_par_el.value) ? comm_par_el.value : '',
+			    frame = document.getElementById( 'jetpack_remote_comment' ),
+			    tellFrameNewParent;
+
+			tellFrameNewParent = function() {
+				if ( comm_par ) {
+					frame.src = "http://jetpack.wordpress.com/jetpack-comment/?blogid=20982132&postid=860&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en-US&jetpack_version=3.7.2&sig=f327984a2584476dbf648b164370339920ac5b69#parent=http%3A%2F%2Fwww.sowrey.org%2F2007%2F11%2Fbank-of-montreal-i-hate-your-security%2F" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+				} else {
+					frame.src = "http://jetpack.wordpress.com/jetpack-comment/?blogid=20982132&postid=860&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en-US&jetpack_version=3.7.2&sig=f327984a2584476dbf648b164370339920ac5b69#parent=http%3A%2F%2Fwww.sowrey.org%2F2007%2F11%2Fbank-of-montreal-i-hate-your-security%2F";
+				}
+			};
+
+	
+			if ( window.postMessage ) {
+				if ( document.addEventListener ) {
+					window.addEventListener( 'message', function( event ) {
+						if ( "http:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				} else if ( document.attachEvent ) {
+					window.attachEvent( 'message', function( event ) {
+						if ( "http:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				}
+			}
+		</script>
+
+	<script type='text/javascript' src='//stats.wp.com/e-201545.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.7.2',blog:'20982132',post:'860',tz:'-7',srv:'www.sowrey.org'} ]);
+	_stq.push([ 'clickTrackerInit', '20982132', '860' ]);
+</script>
+
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching 4/16 queries in 0.023 seconds using disk
+Object Caching 2683/2739 objects using disk
+
+ Served from: www.sowrey.org @ 2015-11-05 07:42:49 by W3 Total Cache -->

@@ -1,0 +1,7 @@
+{ ;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":25:{s:2:"ID";i:499;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2006-11-30 07:36:35";s:13:"post_date_gmt";s:19:"2006-11-30 14:36:35";s:12:"post_content";s:663:"I'm a shutterbug. I take a lot of pictures, of just about anything. Some people think I take too many pictures. But as any amateur photographer will say, out of every 20 pictures you take, only one will be really good.
+
+Unless otherwise noted, you can blame me for all the pictures presented in this site. I captured them using my digital cameras. One day, I'll get my film negatives scanned, too.
+
+To the left is a little categorical list of some of my better photographs. Hopefully, this list will increase over time as I digitize my older film-based pictures. On the right is a running list of my most recent pictures hosted on Flickr.
+
+<!--%subpages%-->";s:10:"post_title";s:6:"Photos";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:6:"photos";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2008-01-05 21:22:49";s:17:"post_modified_gmt";s:19:"2008-01-06 04:22:49";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:39:"http://www.sowrey.org/index.php/photos/";s:10:"menu_order";i:1;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

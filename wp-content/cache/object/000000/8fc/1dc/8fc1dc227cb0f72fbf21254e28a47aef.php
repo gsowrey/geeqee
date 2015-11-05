@@ -1,0 +1,44 @@
+@�;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":25:{s:2:"ID";i:2834;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2011-01-23 23:53:46";s:13:"post_date_gmt";s:19:"2011-01-24 06:53:46";s:12:"post_content";s:7753:"On Friday, I came across an ad -- I think it was through the <a href="http://twitter.com/visitcalgary">@VisitCalgary Twitter feed</a> -- that there was an Ice Magic Festival at Lake Louise, and the picture I saw featured a castle made of ice. Given that the Monkey is utterly enthralled with princesses and whatnot (oh, how I wish I could take her back to England right now...), and we're always looking for something interesting to do on weekends, this sounded like a great idea!
+
+I had to convince Alex. It's a two hour drive, which means potentially ineffective naps and not eating ideally (even if we take all the food with us, it's selective due to limited space). The weather played well in our favour, but it was still a long way to go. But I apparently made my case well, as we got ourselves up early, got our things together, and headed out the door around 9:30 this morning.
+
+Today was one of those days when you really have to remember that I should never be the one making plans...
+
+<!--more-->The drive out to Lake Louise was pretty nice. Unlike our last trip, where Alex was clinging onto the armrests for dear life (the wind combined with blowing snow was a little on the freaky side), the sun was bright until we got to the mountains, and the snow seemed to be falling only far above us. The worst we had was some moronic driver in a Ford Flex who seemed content to pass me, suddenly veer right in front of me, and then slow down.
+
+Oh, and having to listen to Monkey's Spanish pre-school music CD about ten times while in the car. I still can't get the music for "The Ants Go Marching In" ("Las hormigas en marchando van", I believe) out of my head.
+
+Things seemed to be going just beautifully ... right up until we pulled off at the Lake Louise exit and saw 20 other cars ahead of us in the off-ramp. I've never seen that many cars in front of me before in an off-ramp. Anywhere. Ever. I'm not entirely sure if I said "uh oh" aloud.
+
+Sure enough, the Ice Magic Festival draws a crowd. A big one. The multiple parking lots up at the Lake itself were now full, and a small flotilla of people were diverting cars just off the highway into parking lots. We were #3 in the lot we pulled into. By the time we got out of the car, some 10 minutes later (Kate needed a feeding), the lot was nearly full.
+
+From the lot to the Lake? Five kilometres. Once upon a time, I'd have walked it. Maybe even in the winter. With a 3 year-old and an infant? Not a chance. Thankfully, there were shuttle buses. But because there were buses meant that we had to carry less ... Alex and Monkey couldn't go skating on the lake, now, since we didn't to lug sharp things around like that. Nor could we bring our stroller, since it was too big for the bus -- I had to carry Choo Choo in the Baby Bjorn. (My back still hates me -- Choo Choo's not as light as she used to be.)
+
+So we trundled over to the stop to wait for the shuttle bus. The stop already had an hour's worth of people. (Keep in mind that just as we got off the highway was when the Lake lot was closed.) The buses were small and running not nearly frequently enough. After a quick conversation with the attendant, we opted to go find the kids' activities, including the "Little Chippers".
+
+The activity (note the singular) was an ice-sculpting "contest" where every kid who participated won a prize (extremely egalitarian, I must say), which was a little stuffed husky dog. We opted to get Monkey sunglasses first, which she needed rather badly, then went in search of lunch -- a $6.50 pot pie (overpriced, but thankfully tasty) along with a cold cornish pasty -- then went back to the Little Chippers.
+
+The Little Chippers was a rather simple premise: give kids a block of ice about the size of a phonebook, and an ice pick that looked a little like a wide and rather menacing fork. Chip away until you have something reasonable, show it to the attendant, and get a stuffed animal. (Given some of the finished pieces, I think "reasonable" was a fairly low bar to get over.)
+
+Monkey took a bit to get into it, and seemed only to stab at her ice with a similar zeal she normally reserved for dinner -- which is to say, virtually none. It took a bit of coaxing before she finally let loose and managed to make a few marks. It wasn't until Alex "helped" by chipping out the shape of a heart that Monkey seemed to get the hang of it. The final product was more reasonable than most, and -- I think -- worthy of the dog.
+
+It also came with a couple of coupons -- a coffee for mommy or daddy (Alex, in our case), and a hot chocolate and a cookie for the child in question (not me). We acquired our winnings, and then headed back towards our car. The plan, now that the shuttle line had grown to nearly two hours (and even with running much larger buses, more frequently), was to drive up to the Lake lot, run over to the ice castle, take a picture, and run back to the idling car.
+
+Yes, for those of you who know Lake Louise well, this was a dumb idea. But for me, who'd forgotten, this was an act of desperation. I was facing four hours of driving, and I was beyond ticked with how the day had evolved. I'd spent most of it in the car, in a restaurant with overpriced (albeit reasonable tasty) food, with a 20-ish pound deadweight strapped to my chest that was pulling my back out of whack.
+
+I was being rather miserable. I'm amazed that Alex puts up with me when I'm like that...
+
+Surprisingly, no-one tried to stop us as we turned up the road towards the Lake. Instead, it was a short drive up the windy road, and a quick half-figure-eight around the lot before we found a spot ... at the far end. By this point, we were also dealing with a now-spilled hot chocolate, which had soaked and (potentially) stained Monkey's coat and pants. "Grumbling" is far from what was going through my mind. Alex, as always, was the calm eye of the storm. Choo Choo had fallen asleep.
+
+While Alex remained in the car, Monkey (planted up on my shoulders) and I trucked over to the lake as quickly as I could walk. Not surprisingly, the paths were filled with a seemingly non-stop  onslaught  of people not paying attention, and attempting to take pictures hoping the throngs would notice their plight, take pity, and stop walking for five seconds. Basically, too many people and not enough brains...
+
+The ice castle sat on a cleared space of ice that formed the public skating rink in front of the Chateau Lake Louise. I wished, rather dearly, that we hadn't been in a rush. There were horse rides, which Monkey begged to go on, stands selling hot beverages that I had no money for (my wallet was in the car), and the skating rink looked like so much fun.
+
+<a href='http://www.sowrey.org/2011/01/the-lake-louise-ice-magic-festival/lake-louise-and-the-ice-castle/' title='Lake Louise and the Ice Castle'><img width="300" height="199" src="http://www.sowrey.org/wp-content/uploads/2013/04/Lake-Louise-and-the-Ice-Castle-300x199.jpg" class="attachment-medium alignleft wp-image-3263" alt="Lake Louise and the Ice Castle" /></a>Photo by <a href="http://www.flickr.com/photos/sowrey/5383422147/">Geoff S.</a>
+
+
+Snap, snap, Monkey stand here ... no, there... stop moving... look over here, please... here.... OVER HERE! Snapsnapsnapsnap. Ah, good enough! Monkey, come here! Let's go!!
+
+Fifteen minutes from when we left the car, we were back and loaded up. Back down the hill, onto the highway, and back east towards Calgary, my lower back pulsing, my shoulders cramped, my neck and lower back of my skull oozing with a dull throbbing. I can only hope that <em>someone</em> had fun on this little idiotic idea of mine.
+
+Next year? We're going to watch videos on YouTube, instead...";s:10:"post_title";s:34:"The Lake Louise Ice Magic Festival";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:34:"the-lake-louise-ice-magic-festival";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2013-04-25 11:19:39";s:17:"post_modified_gmt";s:19:"2013-04-25 17:19:39";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:29:"http://www.sowrey.org/?p=2834";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

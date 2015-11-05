@@ -1,0 +1,9 @@
+Æù;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":25:{s:2:"ID";i:572;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2005-06-09 22:06:08";s:13:"post_date_gmt";s:19:"2005-06-10 05:06:08";s:12:"post_content";s:944:"We're cursed. It's the only way to explain it.Since arriving in China, one of the few things we've been absolutely obsessed over finding is some <em>authentic</em> dim sum. For us, this means a seating hall of about 4,000 or so, insanely noisy, carts trundling every which way, and no menu. Oh, and a place <strong>PACKED</strong> full of people.
+
+You'd think, that in a country of China's size, we'd find one?
+
+We've had dim sum, now, twice. The first time at our first hotel in Beijing. Very unsatisfying. The second time was after our current hotel in Hong Kong (we're now just checking out for another one; we got this one to cover the days extra in HK) recommended one that doesn't seem to exist. Either that or the concierge is a moron who doesn't understand that when you recommend something, you have to know where it is!
+
+The food was good, but it was off a menu. And no carts.
+
+One way or another, we will find proper dim sum!";s:10:"post_title";s:17:"The dim sum curse";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:17:"the-dim-sum-curse";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2007-12-28 14:29:47";s:17:"post_modified_gmt";s:19:"2007-12-28 21:29:47";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:61:"http://www.sowrey.org/index.php/2005/06/09/the-dim-sum-curse/";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

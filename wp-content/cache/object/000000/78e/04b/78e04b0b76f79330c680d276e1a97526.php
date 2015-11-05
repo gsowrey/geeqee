@@ -1,0 +1,39 @@
+”Ž;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":25:{s:2:"ID";i:59;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"1998-05-26 11:57:38";s:13:"post_date_gmt";s:19:"1998-05-26 17:57:38";s:12:"post_content";s:6858:"The fallout from the round of layoffs a week and a half ago came to a rather disappointing end -- one of our lead programmers decided he didn't want to work for corporate America, and quit. Just as the game he was working on entered the final development stages. I still can't believe that the Powers That Be could not see that coming. I suspect that Rory and Ian (the two driving forces of the company) predicted something like this would happen, but the final decision came from the States. Convenient that they don't really have anything to do with this office.
+
+Then Marketting (also located in San Francisco) decided to get into the act. Earlier in the week, a couple of press releases got around about the deal Radical has with ESPN (we're making video games for them). One of our investors, who writes a column for BC Technology, decided he'd start spewing out to the entire planet about the neat things we were doing.
+
+Problem: No-one was supposed to know until today.
+
+So Marketting decided they'd send around a message that pointed us at a rather heavily made-up internal website that warned employees about talking to the press. (They didn't mention a thing about boneheaded investors.) That was mildy degrading. Two days later, we received the hard copies. Four-colour print on expensive-feeling paper. One copy for each person. Nice waste of money, especially so close to layoffs, eh?
+
+It turns out that the flyers were approved and printed before the financial crunch, but I still think that the idea to hand them around was extremely poor. Many people in San Francisco wonder if all of Vancouver hates them. I can safely say we don't hate all of them ... just selected people.
+
+Onto different things...
+
+I got out this weekend. I had originally decided to go out and get a haircut. I haven't had a haircut in about three months, so it's looking a little scraggly. (I don't buy into the ol' "haircut every four weeks" baloney -- that's a ploy by the hairdressers of the world to make more money. Same applies for showering daily, which is really only needed unless you're dirty or you smell bad.)
+
+Didn't make it that far. Allison immediately suggested that we could go to White Rock. Having read a little about it, and not having been there yet, I thought it a good idea. So we hopped in my car, and took off in the general direction of the former resort town.
+
+Finding it was another issue. Although I knew approximately where White Rock was, I had no idea exactly how to get there. Neither did Allison, although she had a much better idea of where it was. We drove across the Knight St. bridge, and drove through Richmond. We eventually found ourselves in Delta, trying to find out way into Surrey. (White Rock is at the south end of Surrey.) Once we entered Surrey, I decided that it would be a good idea to get a roadmap. (Hey, I'm not the kind of guy who drives aimlessly for hours without asking where I'm going.)
+
+About 45 minutes or so after leaving home, we found the main drag in White Rock. We drove along for a short distance, and pulled into a parking lot at the side of the road. You could tell we were in a tourist trap -- the parking cost a dollar an hour.
+
+We crossed the railway tracks (Burlington Northern runs a line between White Rock's building and beach, a left-over from the heady days of being a resort town, I suspect) and walked towards the wharf, about a kilometre away. (We could have parked closer to the wharf, but we didn't know exactly where we were.)
+
+Along the way, we ran into the White Rock, from which the town received its name. It's a large boulder of white granite, an erratic left over from the days of the glaciers. Since White Rock was founded, the boulder has received a few coats of white paint, usually from the local graduates.
+
+The wharf (pier, boardwalk, whatever you want to call it) extends into Shemiamoo Bay about a half kilometre or so. At the end are a lot of people fishing, but mostly crabbing (throwing in crab cages and attempting to catch dinner).
+
+We wandered back through the town for a while, before I darted back to retrieve the car. (The parking meter was running low, and Allison's new shoes weren't exactly co-operating with her feet.) When I returned, I was met with a freight train that rolled along the tracks, (presumably) heading towards Vancouver.
+
+We stopped for a quick snack at an ice cream shop, and took a moment to relax somewhat (we had walked quite a while that morning). Having had our fill of White Rock (it doesn't take much -- White Rock's is quite small), we opted to travel further west along the shore.
+
+Our ultimate destination was Point Roberts. If you follow the western shoreline of Delta south, you pass by Tsawwassen, a major ferry terminal, just before you reach the 49th Parallel, and the end of Canada. But right at that point isn't the end of the land -- it actually goes just a bit further south, and into the United States.
+
+In 1854, after many years of arguments between the United States and Britain (who held domain on the western side of the Dominion of Canada), the border was extended across the 49th Parallel until it reached the Georgia Strait, where it dipped slightly to accomodate Fort Victoria, at the south end of Vancouver Island. Originally, the Americans had wanted the border to allow them access right up the coast to Alaska (then-President Polk was elected on the slogan "Fifty-Four Forty or Fight"), but eventually the Americans and the British agreed on the treaty of 1827, setting the border at the 49th Parallel. Because Point Roberts wasn't on the oceans, it became cut off from Canada.
+
+But you'd never know. Pretty much the entire 4.9 square mile peninsula caters to Canadian interests. There are many beach homes (which sell for as little as US$50,000), and the area is almost completely undeveloped. But most amenities are available, and some of the municipal services (water, hospital) come from neighbouring Canada. The grocery stores take Canadian money with no question. And due to the relative tight security (you have to go through a border crossing when entering and exiting Point Roberts), the crime rate is also very low.
+
+We didn't stay too long. Just enough to buy some cheap cheese, and fill up on cheap American gas. We thought we might even stay for dinner, but Point Roberts isn't exactly known for its good food. We headed home, but ended up in Richmond to eat at Antonio's, a tasty pasta bar.
+
+On Sunday, Allison and I made a quick spin of Metrotown, so we could obtain some free shorts, and peruse the haircutting establishments (none of which I was at all thrilled with). I then pretty much resigned myself to cleaning up my apartment. Having acquired some furniture from IKEA earlier in the week, I was determined to try and clean up my apartment a little.";s:10:"post_title";s:67:"Corporate Communications, White Rock, Tsawwassen, and Point Roberts";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:60:"corporate-communications-white-rock-tsawwassen-point-roberts";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2009-09-07 17:23:44";s:17:"post_modified_gmt";s:19:"2009-09-07 23:23:44";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:93:"http://www.sowrey.org/index.php/corporate-communications-white-rock-tsawwassen-point-roberts/";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

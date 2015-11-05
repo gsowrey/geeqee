@@ -1,0 +1,7 @@
+{ ;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":25:{s:2:"ID";i:3507;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2015-10-21 07:15:09";s:13:"post_date_gmt";s:19:"2015-10-21 13:15:09";s:12:"post_content";s:683:"For years, I've written stuff. Sometimes it's been manuals, sometimes it's a technical analysis. There's been a few epic emails. A few (hundred) blog entries. And since I was in high school, I've written all sorts of stories, most of them short and ... well, often rather silly. But in the last few years, I've gotten a wee bit more serious about it.
+
+Y'know, maybe even make a living off of it...
+<ul>
+	<li><a href="http://www.sowrey.org/2014/04/so-i-wrote-a-book/">Monkeystories</a> (a collection of short stories I wrote for, you guessed it, Monkey)</li>
+	<li><a href="http://www.sowrey.org/books/the-shepherds-path/">The Shepherd's Path</a> (my first real novel)</li>
+</ul>";s:10:"post_title";s:5:"Books";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:5:"books";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2015-10-21 07:45:01";s:17:"post_modified_gmt";s:19:"2015-10-21 13:45:01";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:35:"http://www.sowrey.org/?page_id=3507";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

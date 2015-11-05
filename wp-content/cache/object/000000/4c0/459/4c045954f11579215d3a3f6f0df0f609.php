@@ -1,0 +1,1 @@
+š ;V<?php exit; ?>a:1:{s:7:"content";a:6:{s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:10:"_edit_lock";a:1:{i:0;s:12:"1432780640:1";}s:17:"_revision-control";a:1:{i:0;s:25:"a:1:{i:0;s:8:"defaults";}";}s:18:"_wpas_skip_2486114";a:1:{i:0;s:1:"1";}s:18:"_wpas_skip_2486118";a:1:{i:0;s:1:"1";}s:18:"_wpas_skip_2538046";a:1:{i:0;s:1:"1";}}}

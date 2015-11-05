@@ -1,0 +1,17 @@
+ƚ;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":25:{s:2:"ID";i:2690;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2010-07-05 16:20:49";s:13:"post_date_gmt";s:19:"2010-07-05 22:20:49";s:12:"post_content";s:2394:"Earlier this afternoon, Sylvia Grace Jones (formerly Tisdale), passed away at the age of 97. She is survived by her children, Linda, David, and Brenda, her grandchildren Pam, Darren, Cathy, Jennifer, and yours truly, and a bunch of great-grandchildren. And that's just on our side -- through her second marriage to Eddie Jones, she has a flotilla of relatives that -- in all truth -- I've never met.
+
+Nana was my last living grandparent. She was the special grandparent when I was young -- she lived hours away by plane, so she was spoken of in near-legendary terms. She wasn't just my Nana, she was Nana The Mysterious, Nana The Wise, Nana The Great Gift-Giver. She was the embodiment of never acting your age -- truthfully, I didn't even know how old she was until just a few years ago. She was a model of long-life, and happiness.
+
+For those, and a million other reasons, I cannot say goodbye to you, Nana. I can only say: Thank you.
+
+<!--more-->A few weeks ago, Nana had a bit of a tumble, and had hit her head. For this, she had to go to the hospital, where she had to be kept under watch. (Head injuries aren't good for us most of the time, anyway -- add in long life to the mix, and things can get rather complicated.) Reports were few, but the general sound was that she was doing well -- which is pretty good, when you think about it.
+
+I visited Nana two weeks ago in the hospital, dropping by to make sure she was comfortable. It was, unfortunately, also the last time I saw her. For the first time, Nana looked her age. I talked to her, helped her drink some water, asked if she needed anything. I was a ghost in her vision, a voice she probably recognised only in the distant mists of a dream. I received little response; the nurses not much more. She was tired.
+
+When it came time for her to rest, I kissed her, laid my hand on hers and said: "I love you, Nana." It wasn't "goodbye", though as I walked back to the elevators, that very thought was in my head. I choked back the tears as I left.
+
+But this is not how I will remember you, Nana. No, my memory of you will be of the woman who knit, who baked cookies, who took us out on the golf cart at Waskesiu and gave me my first ice cream sandwich. I remember you as the one who denied the years, and believed that you always had that little more in you.
+
+Thank you, Nana.
+
+[flickr]photo:2105798176(small)[/flickr]";s:10:"post_title";s:15:"Thank you, Nana";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:14:"thank-you-nana";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2010-07-05 16:21:38";s:17:"post_modified_gmt";s:19:"2010-07-05 22:21:38";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:29:"http://www.sowrey.org/?p=2690";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"3";s:6:"filter";s:3:"raw";}}

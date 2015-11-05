@@ -1,0 +1,23 @@
+7“;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":25:{s:2:"ID";i:144;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2001-03-13 22:02:30";s:13:"post_date_gmt";s:19:"2001-03-14 04:02:30";s:12:"post_content";s:3793:"Life is abdunant with difficult experiences. Some come from education, some from your job, some from a close relationship with a potential life partner. But there are few experiences that are as hard as saying goodbye to good friends.
+
+Critical Mass is opening an office in Toronto. Its first day of business is Monday the 19th. We're staffing it with some people who were hired and brought here, and with some who were here and want to go back east. Tonight, Critical Mass said a fond farewell to 23 of its own, as they prepare to embark on a journey to the centre of the Universe (otherwise known as Toronto) and open our new office.
+
+It could have been more emotional, I suppose, but that's probably why there was free alcohol, to keep us placated. (In retrospect, not a bad thing.) But it still didn't dull the pain of seeing people leave. I know most of the people who are going, either by working with them or being on the same team.
+
+Today I said goodbye to three good friends: Dave, Mike, and Jen.
+
+Dave was the one who interviewed me when I first walked through Critical Mass' doors just over a year ago. I remember the interview well, thinking I was in a lot of trouble because I couldn't figure out what he wanted. Dave's got a good poker face. It wasn't until we struck upon movies that he seemed to lighten up. Not a month later, I was seated a desk away from Dave, and since then have been fortunate to know Dave quite well. We spent several very long days and nights during the summer working on our respective projects, often staying until the wee hours of the morning alternating between coding and acting goofy.
+
+Mike was also in my department, but because he sat in a different area, I really didn't get to know him until a couple of months after I got here. Mike's wit and passion for independent films was what set him apart from most people, as did his fascination (some call it obsession) with strange video games like "Samba De Amigo".
+
+I first met Jen on the night before we were to deliver a pitch for a potential client. She and Chris had been engaged in heavy conversation when I arrived. We found that she shared the same birthday as Chris and I, which created some sort of strange bond between the three of us. Jen and I have since seen a couple of Tuesday night movies ("Crouching Tiger, Hidden Dragon" and "Chocolat") and had a few deep conversations of our own. I've known Jen for only just over four months, but it feels like it's been much longer.
+
+I've been preparing for this day for a long time, but it seems so surreal to have it finally arrive. Not an hour ago, I watched Dave and Mike drive away into the night, knowing that there would be no more game nights with them, no more breakfasts or lunches, no more movies. Soon, I will say goodbye to Jen, and she, too, will disappear into the night. No more deep conversations over pints of Guinness about movies or strange things that have happened in our lives.
+
+They're still a part of Critical Mass, but they might as well have moved to the other side of the world for all it really matters. They're not here.
+
+Last night, I went out with Dave for his second-to-last night in Calgary. I drank more than I would normally, probably to dull the pain. Tonight, I found myself doing the same again. Were I more sober, I would realise how much it hurts. I did my best to laugh and joke as Dave and Mike drove away, all the time feeling my insides twisting up into a single tight knot.
+
+Tomorrow, I will come to work, and see three empty desks where my friends used to sit. I'll see their ghosts for days, maybe even weeks to come. Sure, there will always be email, but it's never quite the same as being with them. This I know from experience.
+
+It's hard to say goodbye to good friends.";s:10:"post_title";s:31:"Saying Good-bye to Good Friends";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:20:"goodbye-good-friends";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2009-12-24 00:07:31";s:17:"post_modified_gmt";s:19:"2009-12-24 06:07:31";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:53:"http://www.sowrey.org/index.php/goodbye-good-friends/";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

@@ -1,0 +1,1 @@
+[22-Feb-2013 22:38:27] PHP Fatal error:  Call to undefined function  load_textdomain() in /home3/sowreyor/public_html/sowrey.org/wp-admin/includes/admin.php on line 13

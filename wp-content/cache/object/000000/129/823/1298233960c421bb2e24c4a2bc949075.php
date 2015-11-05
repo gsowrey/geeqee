@@ -1,0 +1,15 @@
+™—;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":25:{s:2:"ID";i:582;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2005-06-15 20:30:37";s:13:"post_date_gmt";s:19:"2005-06-16 02:30:37";s:12:"post_content";s:1985:"Tokyo is a wonderful city. Even in the rain. Despite a delayed start (we were up late -- it doesn't help that Chris and I yak a lot), we soon found ourselves in Ginza, walking through the mist-like rain in search of not much except yarn (Amy's got a project she's trying to finish).
+
+We went through the sweet electronic sanctity of the Sony Showroom [insert drool marks on the screen here], then over to the Apple store (four floors of pure industrial design nirvana), before crossing Ginza dori in search of, well, food. Amy spied a small sign that led us down an alley barely wide enough for us to walk, then down a set of barely-marked stairs into a basement restaurant that served some darn fine raumen, and some pretty funky dumplings.
+
+<!--more-->Next to that was a paper store. I think Amy's heart raced pretty much the whole time she was in there from the paper overload. Too much to choose from, and we're almost out of money.
+
+Matsuya and Mitsukoshi (two massive Japanese department stores) were next. But the illusive yarn Amy needs was not to be found. So we went to the food floors in Mitsukoshi to see what samples we could find. There was quite a lot.
+
+We caught a subway over to Akehabara. This is geek heaven when it comes to all things "batteries not included". [Insert more drool marks on the screen here.] Then it was over to Shibuya. The only real things to see there, aside from Shibuya itself, was the HMV, where I hoped to snag some of the music my cousin Jen had asked me to find. I found the artists, but sadly, all sold out. (Go figure.) Sorry, Jen, I'll have to keep looking.
+
+We were late meeting up with Chris and his friends Jessica and Alex for a late dinner in Chiba. They didn't mind at all. Shinichiro was out again (he'd come out last night, too) as was another of Chris' japanese friends (whose name I don't want to screw up by spelling incorrectly).
+
+We'll be off for Nara before too long. Then Osaka, then home.
+
+Three more sleeps!";s:10:"post_title";s:22:"Wandering around Tokyo";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:22:"wandering-around-tokyo";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2009-08-21 11:20:31";s:17:"post_modified_gmt";s:19:"2009-08-21 17:20:31";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:66:"http://www.sowrey.org/index.php/2005/06/15/wandering-around-tokyo/";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

@@ -1,0 +1,59 @@
+‰œ;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";s:3:"480";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2004-12-31 21:15:20";s:13:"post_date_gmt";s:19:"2005-01-01 04:15:20";s:12:"post_content";s:10692:"I had hoped to go some place warm for the Christmas holidays this year. I wanted to put Christmas lights on a palm tree. I wanted to make sandmen. I wanted nothing more to worry about than getting a sunburn on Boxing day.
+
+So naturally, I ended up arriving at Pearson International Airport at 6:30 on the morning of 23 December, catching the end of a nasty two-day snowstorm. There's poetic justice in this, somewhere.
+
+<!--more-->Due to the weather, Cathy (wisely) opted not to come and get me at the airport. Instead, I took a limo (for the extra five dollars, it was worth the comfort) out to Oakville. Since Cathy had to go into work, and I didn't have a key to her house, I went to Mom's place instead. Cathy had already called her to let her know I was coming, before I called her to let her know I was coming.
+
+I made myself a light breakfast, and then let the red eye flight catch up with me, passing out in Mom's bed with my jacket over my head to block out light and sound. Mom and I hung out for a while, then went and ran some errands, concluding with a very lousy lunch at the Tim Horton's at the former Trafalgar Village (I have no idea what it's called now). The place used to be a Burger King years ago, and was pretty lousy then, too.
+
+I eventually ended up at Cathy and Craig's, dumping my things off before the four of us congregated at Mom's again for dinner. Ribs, one of my favourites.
+
+During dinner, I decided it was time to let my family know that things were about to change for me. I stated: "Official annoucement time!" and declared that they not make any plans for 27 August 2005. This is the day Alex and I will be married. No-one was particularly surprised, and everyone seemed happy about it. This, of course, made me feel happy about it, because I was getting more than a little anxious about the whole thing. Blessings are what I needed most. The happiness I already had.
+
+'Twas the day before Christmas, and I had a few things left to do, most of which was buying a couple of last-minute presents (most notably for Craig, whom I was having trouble finding). This brought Cathy and I to Oakville Place, barely a kilometre from their house.
+
+Since Oakville Place was first built, I'd hated it. Originally, I disliked it because of the 100-odd stores in the mall, over 80 of them were dedicated to women's fashions. For a teenaged boy, this was about as interesting as ... well, a mall full of stores that had no interest to me. In later years, I came to revile it due to its marked resemblance to a two-storey strip mall. It was meant to look bright and wonderful, but its design left much to be desired.
+
+Recently, Oakville Place underwent a significant overhaul, culminating with a complete change of food courts (the old one is gone, a new, larger one is on the second floor in the new "wing"), several new stores (including -- GASP! -- an HMV), and a few other changes. The pit in the centre under the clock has been gone many a-year, but following it are the two fountains that used to exist at either end of the main section under the stairs. The stores are actually nicer than I remember (with a few exceptions), and it feels more like a mall than an oversized women's fashion store.
+
+Dinner that night was not at Mom's or at Cathy and Craig's. For this, we would travel across town to Mark and Darla's. This was the first time that I would see Mark and Darla's home (completed; I saw it over a year ago -- see [[CBC TV 50th Anniversary VIA Rail train: Reunion]]). I hadn't really seen them since Cathy and Craig's wedding.
+
+Mark had invited us over for Christmas Eve dinner, which would be roast beef and yorkshire pudding (which Cathy would make, following the time-honoure recipe that came with the roast pans Dad bought in the States eons ago). This, I looked forward to. I *love* roast beef, especially when prepared by those passionate about it.
+
+Mark and Darla's home is quite beautiful. Very tastefully decorated, and already full of the smells of dinner. We were a bit late in arriving, which meant that dinner was well on the way to being ready. Also in attendance were Julie and Dave, whom I hadn't seen for almost as long as the last time I saw Mark and Darla. We settled into conversation before we were called to the dinner.
+
+The first round was a smashing corn chowder. That was followed by the roast beef, onions and parsnips, yorkshires, mashed potatoes, and peas. Dessert was a mousse cake from "La Petit Gateau", which is either a really neat little pastry shop, or an in-joke about a supermarket that I never got filled in on. Either way, all was very tasty. Mark went all out.
+
+Even moreso when Cathy, Mom, and I recognized what Mark wore around his neck. When Mark was first going to Appleby College, it was Dad who had taught Mark how to tie a tie. When we were cleaning out Dad's things after his death, Cathy had given Mark one of Dad's trademark paisley ties. It was this tie that Mark wore over dinner. Given how the meal turned out, I would hedge to bet that Dad had shown up just to give a little advice.
+
+Following dinner was a game -- Scene It. This neat little game includes a DVD that you use as part of the questions. Mark had played it before, but the rest of us had not. We split into four teams: Mark, Darla and Julie (Dave had gone to bed, a victim of a 38-hour day), Cathy and Craig, and Mom and myself. Owing to a series of fortunate rolls and good questions, Mom and I finished the game when the others were about half-way through. (I hate to say it, but they were up against a movie geek. I really wonder how Chris, Stuart, and I would fare against each other.) The others finished neck-in-neck.
+
+Cathy, Craig, and I would stay up a bit late that night, talking about generally nothing (Cathy blaring loud music) before we all went to bed.
+
+Mom arrived around 9:00 the next morning for Christmas day. Her only stipulation was that she wanted to be home before 13:00 to make the turkey. This would not be a problem. A new tradition was started with present unwrapping. In previous years, "Santa" (which was usually me) would hand out a present to each person, who would then unwrap it in turn. This year, Cathy and Craig instituted the "1-2-3" rule. Basically, they said "1-2-3" and everyone unwrapped. The 1-2-3s got progressively faster as the unwrapping progressed.
+
+Interestingly enough, most of the presents I got weren't just for me -- they were also for Alex. They included a picnic backpack (as opposed to a basket), a picnic blanket with inflatable headrests, a flashlight, and walkie-talkies. It wouldn't be the only time I would regret Alex not being able to come out to Ontario. (She was at her father's place in Ruskin.)
+
+Breakfast was a mom-saver: bread, eggs, cream cheese, and a lot of maple syrup. It cooked while we unwrapped. Mimosas washed it down well.
+
+Mom left just before 11:00 for home, while Cathy, Craig, and I wandered around the house. Hamilton Dave (formerly Scarborough Dave) arrived not long afterwards. He was joining us for dinner that night. The last time I'd seen him was at Cathy and Craig's wedding (see [[Cathy and Craig's Wedding]]).
+
+The gifts kept coming. Dave received a clock from Cathy and Craig for his boat. In exchange, Cathy and Craig received heated cups for their car. This precipitated a test, where Craig took the remote thermometer, some hot water, and placed the mug in his car to see what would happen. (It works, for the record, but keeps the temperature rather than raise it.) Julie and Dave stopped by for a beer before heading onto other parts for the day.
+
+Dinner was at Mom's. It seemed odd to be having dinner there, though I can't really tell you why. Maybe because it's not the house on Gatestone, where I'd had so many Christmas dinners before. Hopefully, Christmas dinner will be at our place next year!
+
+We got back and played Possumopoly (a parody of Monopoly based on the <em>Red Green</em> TV show). Craig is plain evil. We played until Dave pretty much passed out from all the beer.
+
+Boxing day was all about the board games. Cathy, Craig, and I played from noon almost all the way through until we went to bed. (It takes a long time to place the Ontario Trivia game.) More visitors passed through, including Mark and Darla. Walkie talkies were tested as Craig went out for supplies at the local convenience store. Pizza was our only other interruption.
+
+The next day, Mom and I went out for Greek for lunch. We then did a little shopping (including presents for Chris and Kaz -- books on Canada, a subtle hint for him to move back). The party that night was the fifth (and hopefully final) wedding party for the two of them (see [[Turning Japanese Again, Chris and Kaz's Wedding]] and [[Turning Japanese Again, Reception Party in Chiba]]). I was literally the token white guy. Therese and Stuart couldn't make it as they'd only arrived in town 10 minutes before the party started, and wanted to visit with family. Gerry was also in the area, but lines were crossed and our paths weren't. I would miss out on Gerry's presence this time around (Chris would catch up with him a couple days later).
+
+Oddly enough, none of these absences really bothered me -- it gave me a lot of time to chat with Chris and Kaz. And joke with Kaz about being so cold. And I did get a chance to talk with Gerry the next morning.
+
+Chris, Kaz, and I met up with Stuart and Therese for dim sum the next morning. I picked up Chris and Kaz from Chris' parents' place, a rental while they wait for their new house to be built. It's weird not seeing them in the house I knew. Weirder still was seeing Aidan, Therese and Stuart's daughter. It's still hard to believe my friends are reproducing. She's a doctor (in psychiatry) and he's an art director for a major ad firm. We've somehow all grown up. It's kind of creepy, actually.
+
+Therese looked like herself again, assumedly due to the lack of a parasitic organism inside her. Stuart looked tired, but the new 'do helped. Kaz wanted to smuggle Aidan back to Japan. We ate and talked for a long time. But eventually we had to part ways. I had to go home. I dropped Chris and Kaz at Clarkson station, not knowing when I'd see them next.
+
+I thought I'd done a great packing job, only to realize that I'd forgotten a few things. I had to steal a duffel bag from Craig to get it all home. Steak and Caesar salad -- a Sowrey favourite -- was my last supper before the flight. Despite a full, uncomfortable flight, Alex was waiting for me when I got back.
+
+I realized how much I'd missed her for the last few days. It was a realization that she is <em>The One</em>.";s:10:"post_title";s:61:"Christmas in Oakville with Chris and Kaz, New Years with Alex";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:60:"christmas-in-oakville-with-chris-and-kaz-new-years-with-alex";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2007-12-31 23:44:03";s:17:"post_modified_gmt";s:19:"2008-01-01 06:44:03";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:104:"http://www.sowrey.org/index.php/2005/12/31/christmas-in-oakville-with-chris-and-kaz-new-years-with-alex/";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

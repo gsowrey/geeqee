@@ -1,0 +1,27 @@
+ĕ;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":25:{s:2:"ID";i:93;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"1999-10-12 22:40:39";s:13:"post_date_gmt";s:19:"1999-10-13 04:40:39";s:12:"post_content";s:4615:"The alarm went off at 6:45am. I was up almost immediately, Allison begged for "five more minutes". I took the opportunity to quickly have some orange juice. Allison was in the shower moments later.
+
+We had to be at Yonge and Sheppard by 10:00am, and the trip would take about an hour. Allison wanted to get there in plenty of time, which meant we were catching the 8:03 GO Train from Clarkson.
+
+My dad delivered us to Clarkson station at 8:00. I jogged ahead of Allison and purchased tickets. After riding the GO Train for a year, I had a kind of sixth-sense that told me we had to hurry -- and the time wasn't my only tip-off. No sooner than we had our tickets in hand and were walking up the stairs to the platform did the train arrive. Like clockwork.
+
+The train went express at Clarkson, which meant we were downtown in about 20 minutes -- a feat that is virtually impossible in a car at that time of day. (Of course, now that I've said that, one of you will probably try to prove me wrong.) Arriving at Union Station, we followed the other lemmings into the GO Concourse and into the subway.
+
+The furthest north on the Yonge line I had been was York Mills, where I got off during my tenure at Digital Equipment. That was nearly six years ago. (Six years? Oh boy, I can feel them gray hairs just popping out of my head ... and the other hairs falling off.) We were heading to Sheppard, two more stops beyond that. Allison had no idea just how far north we were going.
+
+We were starving by the time we arrived. Luckily, there was a friendly neighbourhood McDonald's on the McCorner. We indulged ourselves with a bit of McBreakfast (which is known to bring on period bouts of McNausea). The McPlace was not even half-full of people, but still took a while to get our McMeal. At first, I thought my McServer's name was "Ebola" -- imagine getting stuck with that name! As it turned out, her name was "Errola". Dunno if that's any better...
+
+About 9:30, we headed to the building where Allison was to have her meeting. During her departure, I was going to make a few phone calls to obtain information and make a general nuisance of myself.
+
+Allison was up there for two hours. It took me only 45 minutes to complete my tasks. (I also ran out of quarters for the payphone.) During that time, I got a tonne of information about setting up a webserver over an ASDL line, made arrangements for lunch and dinner, made an appointment for Allison at Arkipelago (my old Toronto haunt), and dropped a line to a few friends ... none of whom were at their desks.
+
+That left me with a hour and 15 minutes to be bored out of my mind. I watched elevator load after elevator load walk by, none of them being Allison. After a while, I felt like a dog that watches all the cars go down the road, hoping one of them is its master. (No allusion drawing, please.)
+
+Following her seemingly-successful meeting, we headed downtown to meet with my cousin, Lauren. We went to one of her favourite restaurants, a tiny Thai bistro about a block south from Bloor. We had to wait a few minutes, but the wait was worth it -- the food was good, and not too expensive (for a business-style Toronto eatery, that is).
+
+After lunch, we hopped the subway back down to Queen Street to walk to Arkipelago. It was strange walking down streets I hadn't been on in two years. Things were at the same time familiar, but not. It was like someone had taken a picture of my old world, changed a few things, and then shown me the picture without telling me what they had changed.
+
+The familiar smell of Arkipelago was weaker than I remembered ... but it had been two years since I last smelled the aroma of the wood and varnish that permeated the air. The space seemed a bit more cramped, especially with the additional people. When I had left Arkipelago, there were about 15 people. Over 30 people occupy its spaces. The people scattered everyone reminded me of what Arkipelago looked like when I started there.
+
+The meeting was with Diedre, one of Arkipelago's newer acquisitions. We had hoped to meet with Tim or Todd, but they were both in Europe. Be that as it may, the meeting went very well, or at least so we thought. Following the discussion (which I was mostly a silent witness), I quickly visited with the Arkipelago veterans who were still there.
+
+We walked down to St. Lawrence Market, so I could show Allison Toronto's idea of the Granville Island Market. Then it was off to meet Brenda and Marek at the Movenpick in BCE Place. We enjoyed an interesting dinner and a good discussion. Then we had to split ways and go home.";s:10:"post_title";s:42:"Visit to Ontario, Touring Downtown Toronto";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:23:"ontario-toronto-touring";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"1999-10-12 22:40:39";s:17:"post_modified_gmt";s:19:"1999-10-13 04:40:39";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:56:"http://www.sowrey.org/index.php/ontario-toronto-touring/";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

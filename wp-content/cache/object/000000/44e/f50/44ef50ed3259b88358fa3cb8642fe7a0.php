@@ -1,0 +1,11 @@
+xœ;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";s:3:"786";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2007-07-20 16:38:08";s:13:"post_date_gmt";s:19:"2007-07-20 22:38:08";s:12:"post_content";s:1212:"We flew out from Calgary this morning to Abbotsford, to attend Alex's family reunion (hosted by Allen at the family "farm"). I haven't been here since sometime last year, and I'm struggling to remember exactly when that was. Thanksgiving comes to mind...
+
+There's a certain amount of stereotypical weather. We're on the West Coast. And it's raining.
+
+<!--more-->Not that I'm complaining. After all the heat we've had in Calgary, I don't mind a bit of coolness and rain. It's comforting, really. Different and appreciated. For short spells, anyway.
+
+The weather out here has been dry for the last couple of years. One of the three trees we planted at our wedding has since died due to drought -- Alex's mountain ash. My oak is still growing, and our cedar seems to be thriving still, though it doesn't seem to have grown much.
+
+Aside from a call I had to make to attend a meeting, it's been a quiet day. Which is a good thing. The rain's kept me inside, so I've been reading my Lee Valley catalog (a birthday present) and my Shutterbug photography magazine (also a present).
+
+And unless I'm mistaken, I think it's actually stopped raining. And I can hear trains. I think I'm going to go for a walk... ;)";s:10:"post_title";s:17:"Raining in Ruskin";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:17:"raining-in-ruskin";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2007-07-20 16:38:08";s:17:"post_modified_gmt";s:19:"2007-07-20 22:38:08";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:51:"http://www.sowrey.org/2007/07/20/raining-in-ruskin/";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}
