@@ -1,9 +1,0 @@
-˜—;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":25:{s:2:"ID";i:934;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2008-04-23 23:37:56";s:13:"post_date_gmt";s:19:"2008-04-24 05:37:56";s:12:"post_content";s:860:"Well, wasn't much of a "crawl", at least for me. Met up with Jim at the Expo hall, about 20 minutes before they closed the floor. (What's with closing the Expo hall at 4, anyway?) Skipped the keynote.
-
-<!--more-->Went to the Thirsty Bear, a local brew pub where we met up with two of Jim's co-workers. Went through a few interesting beverages before going on the "crawl". Although Yahoo!'s Brickhouse is supposed to be #10 on an 11-location tour, that was our sole destination.
-
-Schill was spinning for the first little bit. Hunted down Judemat. Met up with Sunni. Been a long time since seeing either of them. Many long chats with them, as well with a couple of ex-pats. Ducked out 'round 9:30. Getting too old for this shit.
-
-Venue #11 was closed before I left the Brickhouse. Pathetic.
-
-[flickr]tag:brickhouse+yahoo+pubcrawl@Geoff S.(thumb)[/flickr]";s:10:"post_title";s:21:"South Park pub crawl ";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:20:"south-park-pub-crawl";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2009-12-22 15:25:21";s:17:"post_modified_gmt";s:19:"2009-12-22 21:25:21";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:28:"http://www.sowrey.org/?p=934";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

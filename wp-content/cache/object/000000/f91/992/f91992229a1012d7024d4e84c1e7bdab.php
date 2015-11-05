@@ -1,7 +1,0 @@
-{ ;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":25:{s:2:"ID";i:650;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2007-02-25 17:15:04";s:13:"post_date_gmt";s:19:"2007-02-26 00:15:04";s:12:"post_content";s:442:" One day shy of last year's pie toss, some of the technical leaders at Critical
-Mass took up the challenge to get pasted yet again. Up for target practice were
-Peter, Ron, Cory, and Allard. I couldn't help but notice that the technical leads
-always seem to be the ones catching whatever's flying through the air... Maybe
-next year other departments might be strong enough to withstand the pieing?
-
-[flickr]set:72157603444666109[/flickr]";s:10:"post_title";s:24:"Another Charity Pie Toss";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:24:"another-charity-pie-toss";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2007-12-23 17:17:01";s:17:"post_modified_gmt";s:19:"2007-12-24 00:17:01";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:635;s:4:"guid";s:68:"http://www.sowrey.org/photos/critical-mass/another-charity-pie-toss/";s:10:"menu_order";i:15;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

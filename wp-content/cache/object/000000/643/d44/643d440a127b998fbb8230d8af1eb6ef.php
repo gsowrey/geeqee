@@ -1,8 +1,0 @@
-{ ;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":25:{s:2:"ID";i:640;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2007-02-25 12:42:00";s:13:"post_date_gmt";s:19:"2007-02-25 19:42:00";s:12:"post_content";s:617:" When Chris told me he was going to stay in Japan another year, I thought it would be a good idea to take advantage of that and
-go visit. I'd never been to Japan before, and had always wanted to see what it was like. In almost a snap decision, I put myself
-considerably further in debt to go and find out what Japan was all about.
-
-The trip wasn't very long, lasting between 24 April 2003 and 6 May 2003, but was worth every penny. I just wish I'd had longer
-to explore. I barely scratched the surface, and mostly saw only Tokyo. (Not that I'm complaining in any way!)
-
-[flickr]tag:japan+2003@Geoff S.[/flickr]";s:10:"post_title";s:16:"Turning Japanese";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:16:"turning-japanese";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2007-12-23 15:28:40";s:17:"post_modified_gmt";s:19:"2007-12-23 22:28:40";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:499;s:4:"guid";s:46:"http://www.sowrey.org/photos/turning-japanese/";s:10:"menu_order";i:19;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

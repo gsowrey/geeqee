@@ -1,9 +1,0 @@
-xœ;V<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";s:3:"772";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2007-07-11 08:29:29";s:13:"post_date_gmt";s:19:"2007-07-11 14:29:29";s:12:"post_content";s:795:"Canyon works quickly! I got a call from them yesterday saying they were getting started with the heat piping, and would take 1-2 days to get it all in.
-
-I came home last night, and it was all in. Almost.
-
-<!--more-->Okay, so things aren't exactly perfect. I think it's because my diagram might need more detail. There's a missing rough line for an expansion we're hoping to do in a couple of years. There's a lot of piping where we're going to move their stairs to (which seems a bit odd, since we don't want to put pressure there), piping missing by the existing stairs, and a little too much piping that'll appear under the future washer/dryer area.
-
-Following up with Canyon today to see if I'm on crack, or if they accounted for all of this.
-
-[photopress:_MG_6825.jpg,thumb,pp_image]";s:10:"post_title";s:16:"The piping is in";s:13:"post_category";s:1:"0";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:16:"the-piping-is-in";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2007-07-12 07:57:17";s:17:"post_modified_gmt";s:19:"2007-07-12 13:57:17";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:50:"http://www.sowrey.org/2007/07/11/the-piping-is-in/";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:2:"14";}}

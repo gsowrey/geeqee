@@ -1,1 +1,0 @@
-cê;V<?php exit; ?>a:1:{s:7:"content";a:8:{s:7:"default";s:7:"/themes";s:8:"spacious";s:7:"/themes";s:12:"twentyeleven";s:7:"/themes";s:13:"twentyfifteen";s:7:"/themes";s:14:"twentyfourteen";s:7:"/themes";s:14:"twentythirteen";s:7:"/themes";s:12:"twentytwelve";s:7:"/themes";s:4:"yoko";s:7:"/themes";}}
