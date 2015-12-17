@@ -1,3 +1,4 @@
 [16-Jul-2013 10:52:19] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home3/sowreyor/public_html/sowrey.org/wp-includes/registration-functions.php on line 7
 [15-Nov-2014 04:12:24 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home3/sowreyor/public_html/sowrey.org/wp-includes/rss-functions.php on line 8
 [15-Nov-2014 04:16:38 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home3/sowreyor/public_html/sowrey.org/wp-includes/rss-functions.php on line 8
+[03-Dec-2015 20:08:51 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home3/sowreyor/public_html/sowrey.org/wp-includes/rss-functions.php on line 8

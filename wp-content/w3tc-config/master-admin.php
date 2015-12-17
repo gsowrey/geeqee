@@ -4,7 +4,7 @@ return array(
 	'version' => '0.9.4.1',
 	'browsercache.configuration_sealed' => false,
 	'cdn.configuration_sealed' => false,
-	'common.install' => 1369251048,
+	'common.install' => 1450243805,
 	'common.visible_by_master_only' => true,
 	'dbcache.configuration_sealed' => false,
 	'minify.configuration_sealed' => false,
@@ -16,11 +16,11 @@ return array(
 	'newrelic.configuration_sealed' => false,
 	'extensions.configuration_sealed' => array(
 	),
-	'notes.minify_error' => true,
-	'minify.error.last' => 'No sources to serve',
-	'minify.error.notification' => 'admin',
+	'notes.minify_error' => false,
+	'minify.error.last' => '',
+	'minify.error.notification' => '',
 	'minify.error.notification.last' => 0,
-	'minify.error.file' => '000000/M9TPSi0pSEzO1s_NTynNSS3WL85ILEpNSUxJqQQzM_PSAQ.js',
+	'minify.error.file' => '',
 	'track.maxcdn_signup' => 0,
 	'track.maxcdn_authorize' => 0,
 	'track.maxcdn_validation' => 0,
@@ -28,5 +28,5 @@ return array(
 	'notes.remove_w3tc' => false,
 	'notes.hide_extensions' => array(
 	),
-	'evaluation.reminder' => 1430671609,
+	'evaluation.reminder' => 0,
 );
