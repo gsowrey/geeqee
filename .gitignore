@@ -7,3 +7,5 @@ wp-content/backups
 .idea
 error_log
 wp-content/plugins/wordfence/tmp
+wp-content/cache
+wp-content/cache/*

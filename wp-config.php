@@ -3,8 +3,7 @@
 define('W3TC_EDGE_MODE', true); // Added by W3 Total Cache
 
 /** Enable W3 Total Cache */
- //Added by WP-Cache Manager
-
+define('WP_CACHE', true); // Added by W3 Total Cache
 
 
 /**
@@ -22,18 +21,15 @@ define('W3TC_EDGE_MODE', true); // Added by W3 Total Cache
  * @package WordPress
  */
 
-// ** MySQL settings - You can get this info from your web host ** //
-/** The name of the database for WordPress */
- //Added by WP-Cache Manager
- //Added by WP-Cache Manager
-define( 'WPCACHEHOME', '/home3/sowreyor/public_html/sowrey.org/wp-content/plugins/wp-super-cache/' ); //Added by WP-Cache Manager
-define('DB_NAME', 'sowreyor_sowrey_org');
+define('FS_METHOD', 'direct');
+
+define('DB_NAME', 'sowrey_org');
 
 /** MySQL database username */
-define('DB_USER', 'sowreyor_dbusr');
+define('DB_USER', 'sowrey_db_usr');
 
 /** MySQL database password */
-define('DB_PASSWORD', '#EXpl0r3r3##EXpl0r3r3#');
+define('DB_PASSWORD', 'KTEQQ0hQ6xSUdd4chxjY06iASwsq5H');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
